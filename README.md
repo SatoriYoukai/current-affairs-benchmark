@@ -20,3 +20,14 @@ python -m unittest -v
 - GPT-6.2 Sol：17/20｜全对 2026-06｜有对 2026-07
 
 调整题目仅进入独立探索版，不覆盖固定基线。
+
+## 每日探索题库
+
+`data/daily-202511-202608-v1.json` 覆盖该窗口的每一个自然日（304 天），每条记录一件事、一个短答、日期和出处。`data/daily-boundary-official-v1.json` 是额外的边界事件。请勿把题库的答案与证据交给被测模型；用命令单独导出题面：
+
+```sh
+python daily.py prompt --month 2026-07
+python daily.py grade --month 2026-07 --answers answers.txt
+```
+
+每日档是探索用候选，不等价于固定基线。部分题根据 [Wikipedia Current events](https://en.wikipedia.org/wiki/Portal:Current_events) 的带出处日历改作填空：记录保留 `index_url`（修订版本和日期）及新闻出处，且明示未独立复核原文的题。改编文字注明 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)；原始文章各有各的权利人。归档日期可能是报道日期，某些答案也可能由题面推断。日报成绩只描述这份题库，不拿来确定训练截止日。经模型表现选中的题属于校准集，不能充当未见题测试。

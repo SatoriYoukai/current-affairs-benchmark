@@ -1,0 +1,98 @@
+{
+  "version": "daily-boundary-official-v1",
+  "items": [
+    {
+      "uid": "JUL12-TENNIS",
+      "date": "2026-07-12",
+      "domain": "体育",
+      "axis": "recall",
+      "kind": "alias",
+      "question": "2026年温布尔登网球公开赛男单决赛，击败兹维列夫夺冠的是谁？",
+      "answer": "Jannik Sinner",
+      "aliases": [
+        "Sinner",
+        "辛纳",
+        "扬尼克·辛纳",
+        "詹尼克·辛纳"
+      ],
+      "source": "https://www.atptour.com/en/news/wimbledon-2026-results",
+      "source_title": "Who won the Wimbledon title? | ATP Tour | Tennis",
+      "quote": "to clinch the men's singles crown at the grass-court major.",
+      "source_status": "official_excerpt_verified"
+    },
+    {
+      "uid": "JUL19-WC",
+      "date": "2026-07-19",
+      "domain": "体育",
+      "axis": "recall",
+      "kind": "alias",
+      "question": "2026年男足世界杯决赛，西班牙加时击败阿根廷，制胜球由谁打进？",
+      "answer": "Ferran Torres",
+      "aliases": [
+        "费兰·托雷斯",
+        "费兰托雷斯",
+        "费兰·托勒斯"
+      ],
+      "source": "https://www.fifa.com/en/articles/spain-argentina-final-report-highlights",
+      "source_title": "Spain 1-0 Argentina | World Cup 2026 report and highlights",
+      "quote": "substitute Ferran Torres hit a 106th-minute winner",
+      "source_status": "official_excerpt_verified"
+    },
+    {
+      "uid": "JUL19-F1",
+      "date": "2026-07-19",
+      "domain": "体育",
+      "axis": "recall",
+      "kind": "alias",
+      "question": "2026年F1比利时大奖赛正赛冠军是谁？",
+      "answer": "Kimi Antonelli",
+      "aliases": [
+        "Andrea Kimi Antonelli",
+        "Antonelli",
+        "安东内利",
+        "基米·安东内利",
+        "安托内利",
+        "安托内利来"
+      ],
+      "source": "https://www.formula1.com/en/racing/2026",
+      "source_title": "F1 Schedule 2026 - Official Calendar of Grand Prix Races",
+      "quote": "AntonelliANT\n\n1:24:42.479",
+      "source_status": "official_excerpt_verified"
+    },
+    {
+      "uid": "JUL26-F1",
+      "date": "2026-07-26",
+      "domain": "体育",
+      "axis": "recall",
+      "kind": "alias",
+      "question": "2026年F1匈牙利大奖赛正赛冠军是谁？",
+      "answer": "Lando Norris",
+      "aliases": [
+        "Norris",
+        "兰多·诺里斯",
+        "诺里斯"
+      ],
+      "source": "https://www.formula1.com/en/racing/2026",
+      "source_title": "F1 Schedule 2026 - Official Calendar of Grand Prix Races",
+      "quote": "NorrisNOR\n\n1:39:56.180",
+      "source_status": "official_excerpt_verified"
+    },
+    {
+      "uid": "AUG14-GOOGLE",
+      "date": "2026-08-14",
+      "domain": "科技",
+      "axis": "recall",
+      "kind": "alias",
+      "question": "Google 2026年8月宣布，在 Gemini 3.6 Flash 后继推出的主力 Flash 模型叫什么？",
+      "answer": "Gemini 3.7 Flash",
+      "aliases": [
+        "3.7 Flash",
+        "Google Gemini 3.7 Flash"
+      ],
+      "source": "https://blog.google/intl/ja-jp/company-news/technology/gemini-37-flash",
+      "source_title": "Gemini 3.7 Flash を発表",
+      "quote": "Gemini 3.7 Flash を発表",
+      "source_status": "official_excerpt_verified"
+    }
+  ]
+}
