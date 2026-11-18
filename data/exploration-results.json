@@ -1,0 +1,1947 @@
+{
+  "model": "gpt-6.2-sol",
+  "effort": "xhigh",
+  "daily": {
+    "2025-11": {
+      "route": "A",
+      "status": "graded",
+      "prompt_sha256": "5a5a264afae94fdd2b8521ab4fa51fa91bf0dc661d893000dbd473378a793851",
+      "matched_tokens": 7715,
+      "total": 30,
+      "marks": {
+        "D20251114-d86fd210": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20251119-73265c9b": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20251126-181bae3e": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20251121-42f70ba0": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20251124-5f93575c": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20251106-e4bdb318": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251127-0d98fdf0": {
+          "mark": "match",
+          "guess": false
+        },
+        "V2-N02": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251120-12c3b233": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251122-16bae26d": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251123-48440384": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251129-147eaf44": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251102-fc5ff73a": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20251110-c1ecb62f": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251113-0cd08fc9": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251111-72130a62": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251112-1a2156cf": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20251108-65d37d5a": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251109-3aca375d": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251125-6c7cc54f": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251103-2a6ce01e": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251105-6c6620bf": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251130-431c145d": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251117-c495ff3a": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20251107-71d56192": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20251128-2f74532c": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251116-2429e994": {
+          "mark": "match",
+          "guess": true
+        },
+        "V2-N01": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251115-1efe8a58": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251104-16ce3e6c": {
+          "mark": "match",
+          "guess": false
+        }
+      },
+      "correct": 22,
+      "guess_correct": 2
+    },
+    "2025-12": {
+      "route": "B",
+      "status": "graded",
+      "prompt_sha256": "827616464a77a6d33c13fd51b7edb85d821c58332805a23fa9c5166cea1ca641",
+      "matched_tokens": 8059,
+      "total": 31,
+      "marks": {
+        "D20251205-e06f27c3": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20251215-048f1b97": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20251216-11507880": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20251207-f90ac7c6": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20251203-e35245c8": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251223-6d544040": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251221-46398d80": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251214-6b6d1ea2": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251226-8736752e": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20251218-0cd50bce": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20251206-8889dfcc": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251210-452fc152": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20251208-79757bc7": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251220-74f7a57a": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251213-931824e3": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251227-06a84061": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20251212-be70434c": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20251229-7297d9dd": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251204-dddb50af": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251201-3d0ef847": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20251228-fda3b89b": {
+          "mark": "match",
+          "guess": false
+        },
+        "V2-N04": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251224-75d7d868": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251230-2952e3ab": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251209-98596080": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251231-2a9e94c7": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20251202-6bfe19e4": {
+          "mark": "miss",
+          "guess": false
+        },
+        "V2-N03": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251222-0bb8c116": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251225-956f23d3": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20251219-06847876": {
+          "mark": "match",
+          "guess": false
+        }
+      },
+      "correct": 20,
+      "guess_correct": 1
+    },
+    "2026-01": {
+      "route": "A",
+      "status": "graded",
+      "prompt_sha256": "e6ee0c6bc045f5c44bcc416a61382ec59f3a13c3ecf4fb2305eefa775bb7cad1",
+      "matched_tokens": 8307,
+      "total": 31,
+      "marks": {
+        "D20260101-17a5c362": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260119-6574303e": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260122-affb4af9": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260111-d209b8f0": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260112-e8669100": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260124-ef787036": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260115-4f4a52be": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260129-3804c3ce": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260107-68ad8791": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260117-581127b6": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260113-7b5ec076": {
+          "mark": "match",
+          "guess": false
+        },
+        "V2-N06": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260104-c166aab8": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260120-cc8548a0": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260110-70bb4502": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260109-43b4b33f": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260121-6aae429d": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260126-403ededb": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260103-085978e6": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260125-9d5c6cc8": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260105-ca8a03bf": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260123-be7bebef": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260116-8fa509f0": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260118-c0f8d361": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260130-4a4fc821": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "D20260108-8821dc27": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260106-51806426": {
+          "mark": "match",
+          "guess": false
+        },
+        "V2-N05": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260114-937df6b7": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260127-79896989": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260102-34f93863": {
+          "mark": "miss",
+          "guess": false
+        }
+      },
+      "correct": 25,
+      "guess_correct": 0
+    },
+    "2026-02": {
+      "status": "graded",
+      "total": 28,
+      "verified": 28,
+      "correct": 18,
+      "guess_correct": 3,
+      "marks": {
+        "D20260206-1f52e863": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260211-b4348249": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260207-17463d98": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260205-f85f99e8": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260203-a4d5c6fa": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260213-78bbb8e9": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260214-852da915": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260208-ec0f0075": {
+          "mark": "match",
+          "guess": false
+        },
+        "V2-N07": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260210-0c2cc810": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260202-630ebccb": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260209-a4586075": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260204-93dc0b36": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260201-3dff15a5": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260217-94ec879f": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260219-b7a535fe": {
+          "mark": "miss",
+          "guess": false
+        },
+        "V2-N08": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260225-9afa4392": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260227-74625fcf": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260216-8eb0a642": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260221-a3843736": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260226-02a7b1aa": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260223-93f947c6": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260228-e17b1f7b": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260218-da7189a7": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260220-8e2f919b": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260224-96acf4bb": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260215-43efda20": {
+          "mark": "match",
+          "guess": false
+        }
+      },
+      "parts": [
+        {
+          "route": "B",
+          "status": "graded",
+          "prompt_sha256": "d1477b9262cc4fb52b0663aaae96f8cb4f41120623042d71eb83c1dfaf759338",
+          "matched_tokens": 6345,
+          "total": 14,
+          "correct": 11,
+          "guess_correct": 2
+        },
+        {
+          "route": "A",
+          "status": "graded",
+          "prompt_sha256": "06266c9d19eeb0bdc6c64d3687a4cbb74024ebc0e3b5254103495802af79a1b5",
+          "matched_tokens": 7273,
+          "total": 14,
+          "correct": 7,
+          "guess_correct": 1
+        }
+      ]
+    },
+    "2026-03": {
+      "route": "A",
+      "status": "graded",
+      "prompt_sha256": "a664b625217ca87dfa50ff33d97ec8702fbb8971261fae15ab4ad2efd5567702",
+      "matched_tokens": 7626,
+      "total": 31,
+      "marks": {
+        "D20260318-588d5ffe": {
+          "mark": "match",
+          "guess": false
+        },
+        "V2-N09": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260305-2667227a": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260324-e8706ebf": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260314-d104f30c": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260316-19de8990": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260302-6fa9d74d": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260317-e9daf442": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260327-0700d581": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260328-fb7062a4": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260329-0d659049": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260321-b7fe36d4": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260301-069869cb": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260330-4dd9af13": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260320-7d5807a6": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260323-90b750af": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260326-25a2bbee": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260309-363c11d7": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260319-df63f1eb": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260306-f861593e": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260322-838ba098": {
+          "mark": "miss",
+          "guess": false
+        },
+        "V2-N10": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260313-32304d25": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260310-e0514020": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260303-5d00727a": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260325-1389caad": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260312-cfdc01bf": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260307-0c28d0f9": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260308-0ea78a41": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260311-d10c9e9e": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260331-30ad0125": {
+          "mark": "match",
+          "guess": false
+        }
+      },
+      "correct": 22,
+      "guess_correct": 2
+    },
+    "2026-04": {
+      "status": "graded",
+      "total": 30,
+      "verified": 30,
+      "correct": 26,
+      "guess_correct": 3,
+      "marks": {
+        "D20260405-fe47b8b8": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260415-ab399a35": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260414-d18ba380": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260402-cfa44c34": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260404-29a35210": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260411-178e82a5": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260403-83365e1d": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260409-2b2175f9": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260412-edc9ce30": {
+          "mark": "match",
+          "guess": false
+        },
+        "V2-N11": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260406-8fd588cd": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260408-da802a5a": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260413-1bb82c80": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260401-2cf86893": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260407-4bef5071": {
+          "mark": "match",
+          "guess": true
+        },
+        "V2-N12": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260420-37675c68": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260419-3a1a25d4": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260423-c1e37748": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260418-e856454c": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260421-3b1557a3": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260417-b5649014": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260428-50671c10": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260426-2e6fbb00": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260427-ecb87ae1": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260430-25088001": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260429-8787ea6b": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260425-7fb7dd4e": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260424-982d67dd": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260422-4fb24beb": {
+          "mark": "match",
+          "guess": false
+        }
+      },
+      "parts": [
+        {
+          "route": "B",
+          "status": "graded",
+          "prompt_sha256": "e476c5edb70f6fdcc08d3f3eebad3298366a9b1961dfb74c084bb1472745cda8",
+          "matched_tokens": 6465,
+          "total": 15,
+          "correct": 14,
+          "guess_correct": 2
+        },
+        {
+          "route": "A",
+          "status": "graded",
+          "prompt_sha256": "dd6e0729c64f58b3c3fc39078bd6efcb219330d778b24eae7f6bc15ee076c5bf",
+          "matched_tokens": 7171,
+          "total": 15,
+          "correct": 12,
+          "guess_correct": 1
+        }
+      ]
+    },
+    "2026-05": {
+      "route": "A",
+      "status": "graded",
+      "prompt_sha256": "8e9a82be3637c64541ba3bf588cb58cfa2d06f6e449db82aa9aa6bffc5e25e33",
+      "matched_tokens": 7558,
+      "total": 31,
+      "marks": {
+        "D20260506-950c5dac": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260530-540a0c8e": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260524-5241007a": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260529-e2007368": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260511-90d00e06": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260505-4d34a420": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260525-192bb7b6": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260531-8aee247e": {
+          "mark": "miss",
+          "guess": false
+        },
+        "V2-N13": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260528-2fe7b69e": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260518-2bd5d772": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260507-aa83db25": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260523-10683ced": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260517-d2767fb8": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260520-1eafa198": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260503-e961dc3c": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260515-3c7d0e17": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260527-6bd0b93f": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260512-077d32f0": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260504-8330edad": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260514-491a8a25": {
+          "mark": "match",
+          "guess": false
+        },
+        "V2-N14": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260513-48c2d2e0": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260521-71bfb2f6": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260522-16e7f527": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260501-70cae020": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260508-a7753925": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260502-221d71f4": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260526-e7fd4981": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260510-48240ab7": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260509-081b22a0": {
+          "mark": "match",
+          "guess": false
+        }
+      },
+      "correct": 26,
+      "guess_correct": 5
+    },
+    "2026-06": {
+      "route": "B",
+      "status": "graded",
+      "prompt_sha256": "c25bdc017d6f2e3164fbb23f2c113efac3e30fe7b8f4bd83196cdbaa74ecf341",
+      "matched_tokens": 8321,
+      "total": 30,
+      "marks": {
+        "D20260610-c64731c1": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260616-85273c1a": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260602-71159417": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260617-7e6b6f36": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260628-910b388b": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260626-26648dd2": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260619-39784b3e": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260608-6dfc252c": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260625-675e9a6d": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260629-53afbac4": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260622-f1d8d604": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260606-5df791ff": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260621-bd8310e3": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260615-272b0238": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260630-95ed98ed": {
+          "mark": "match",
+          "guess": false
+        },
+        "V2-N15": {
+          "mark": "match",
+          "guess": false
+        },
+        "V2-N16": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260627-159cbadc": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260623-5f9303d9": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260611-e378aa9b": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260605-b09b7555": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260607-d56ca19e": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260620-734e4bb3": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260614-147ac39d": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260601-deaa19bf": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260624-7b37c398": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260603-7c5cc7fc": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260604-92bbc196": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260613-1252cb43": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260618-f8f70f0c": {
+          "mark": "match",
+          "guess": false
+        }
+      },
+      "correct": 25,
+      "guess_correct": 9
+    },
+    "2026-07": {
+      "status": "graded",
+      "total": 31,
+      "verified": 31,
+      "correct": 24,
+      "guess_correct": 6,
+      "marks": {
+        "D20260704-f04e91d2": {
+          "mark": "match",
+          "guess": false
+        },
+        "V2-N18": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260707-15b39c86": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260710-e390df61": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260713-9b6cdb66": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260712-2de94845": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260715-3cc0a50a": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260711-ba82376d": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260701-d43622a9": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260703-f70064b8": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260708-1ea80243": {
+          "mark": "match",
+          "guess": false
+        },
+        "V2-N17": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260714-ab066989": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260716-aedfa4f5": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260702-e7417300": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260706-89f26df8": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260720-75815d3b": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260721-8331054d": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260729-343ef76f": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260719-c564b724": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260725-65a6dc26": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260717-cf80ecd1": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260728-64d0b793": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260726-f489d974": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260718-e642d16e": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260722-6c4e99be": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260723-29bd3c8c": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260730-327634a3": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260727-2b3fad14": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260724-b924dac5": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260731-fa6b19a1": {
+          "mark": "miss",
+          "guess": true
+        }
+      },
+      "parts": [
+        {
+          "route": "A",
+          "status": "graded",
+          "prompt_sha256": "a1fa1a6dde2a709822e9670839c396bfc5e3ab67754f80524f4ec09a60b36909",
+          "matched_tokens": 7272,
+          "total": 16,
+          "correct": 13,
+          "guess_correct": 4
+        },
+        {
+          "route": "B",
+          "status": "graded",
+          "prompt_sha256": "298096ee1fa474d9a000c715ca5604811a3f38679a286b14c43a5921b6b5d897",
+          "matched_tokens": 7939,
+          "total": 15,
+          "correct": 11,
+          "guess_correct": 2
+        }
+      ]
+    },
+    "2026-08": {
+      "status": "graded",
+      "total": 31,
+      "verified": 31,
+      "correct": 17,
+      "guess_correct": 4,
+      "marks": {
+        "D20260810-7339c05b": {
+          "mark": "match",
+          "guess": true
+        },
+        "V2-N20": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "D20260808-425a52fc": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260813-2a7a46ad": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260809-53c20cf3": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260814-2a4bc075": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260812-327b5984": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260801-23ffbeb2": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260806-262a42ca": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260805-9b7eb20a": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260816-263c3a91": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260802-9dfe9195": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260803-20a84a06": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260815-92612358": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260804-33429cfd": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260811-307f960b": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260825-aac32e8f": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260830-38d353bd": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260820-ac800dc0": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260829-30e99d52": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260819-74446f34": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260817-eed3a353": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260827-40f155c8": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260821-6c4ff744": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260818-05dc44fc": {
+          "mark": "match",
+          "guess": true
+        },
+        "V2-N19": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260824-672c56db": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260831-4de3784c": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260826-335030f0": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260828-c0f2b536": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260822-5827bc59": {
+          "mark": "miss",
+          "guess": false
+        }
+      },
+      "parts": [
+        {
+          "route": "B",
+          "status": "graded",
+          "prompt_sha256": "57d39581cb8a0bc9872674361fc1867e13e77a4945eda6ca8fe8a9779e7e230c",
+          "matched_tokens": 7321,
+          "total": 16,
+          "correct": 8,
+          "guess_correct": 3
+        },
+        {
+          "route": "A",
+          "status": "graded",
+          "prompt_sha256": "24d5bccf413bb7387b4410c4525180bfb1fe96322212284cc07ca0b168311ae0",
+          "matched_tokens": 6969,
+          "total": 15,
+          "correct": 9,
+          "guess_correct": 1
+        }
+      ]
+    }
+  },
+  "daily_core": {
+    "dates": 304,
+    "graded": 304,
+    "correct": 225
+  },
+  "boundary_screen": {
+    "2026-06": {
+      "route": "B",
+      "status": "graded",
+      "prompt_sha256": "1d0516c815aad19463e9dcfa754bebb7b51c02840c17f9fff84a8c7850ca6e75",
+      "matched_tokens": 5315,
+      "total": 8,
+      "marks": {
+        "D20260609-08053e7b": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260623-871199ae": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260615-3a278497": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260608-ea353f2a": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260616-8e5e6730": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260603-165e6b5b": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260622-d6a44646": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260601-e6993a17": {
+          "mark": "match",
+          "guess": false
+        }
+      },
+      "correct": 7,
+      "guess_correct": 2
+    },
+    "2026-07": {
+      "route": "A",
+      "status": "graded",
+      "prompt_sha256": "ba4810982462fc292bd3a49709388937e4b908b26b790d71525d2b544fd49fe4",
+      "matched_tokens": 6116,
+      "total": 12,
+      "marks": {
+        "JUL12-TENNIS": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260723-01c7e4b9": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260709-d4d1a275": {
+          "mark": "miss",
+          "guess": true
+        },
+        "JUL19-F1": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260702-38e8d3fb": {
+          "mark": "match",
+          "guess": true
+        },
+        "JUL19-WC": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260708-b88fd222": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260715-c8f56a1c": {
+          "mark": "miss",
+          "guess": true
+        },
+        "D20260716-692a5471": {
+          "mark": "match",
+          "guess": false
+        },
+        "JUL26-F1": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260701-78c054ab": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260722-26c598b6": {
+          "mark": "match",
+          "guess": false
+        }
+      },
+      "correct": 8,
+      "guess_correct": 3
+    },
+    "2026-08": {
+      "route": "B",
+      "status": "graded",
+      "prompt_sha256": "605f8fa0d5f4013ee10a1f8a03a4be9ea953c0ff92ff37433c21a99a43c177f7",
+      "matched_tokens": 5906,
+      "total": 9,
+      "marks": {
+        "D20260812-4f2053e6": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260822-88e6d907": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260819-0b049d9e": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "D20260801-0d63468e": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260823-9210061d": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260814-c873174c": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260815-1f2ef148": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260803-27964302": {
+          "mark": "match",
+          "guess": false
+        },
+        "AUG14-GOOGLE": {
+          "mark": "unknown",
+          "guess": false
+        }
+      },
+      "correct": 5,
+      "guess_correct": 1
+    }
+  },
+  "confirmed_forms": {
+    "daily-calibrated-ea9741f67e9e": [
+      {
+        "route": "A",
+        "status": "graded",
+        "prompt_sha256": "99be01bdfb458fc3c0ae923717ae99781c6854f83b20d62e01447319fe0a8e16",
+        "matched_tokens": 6592,
+        "total": 20,
+        "marks": {
+          "V2-N01": {
+            "mark": "match",
+            "guess": false
+          },
+          "D20260601-e6993a17": {
+            "mark": "match",
+            "guess": true
+          },
+          "V2-N07": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N09": {
+            "mark": "match",
+            "guess": false
+          },
+          "D20260708-b88fd222": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N04": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N03": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N05": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N14": {
+            "mark": "match",
+            "guess": false
+          },
+          "D20260812-4f2053e6": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N02": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N13": {
+            "mark": "match",
+            "guess": false
+          },
+          "D20260301-069869cb": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N12": {
+            "mark": "match",
+            "guess": false
+          },
+          "D20260101-17a5c362": {
+            "mark": "match",
+            "guess": false
+          },
+          "D20260803-27964302": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N08": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N15": {
+            "mark": "match",
+            "guess": false
+          },
+          "D20260701-78c054ab": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N11": {
+            "mark": "match",
+            "guess": false
+          }
+        },
+        "correct": 20,
+        "guess_correct": 1,
+        "score": 20,
+        "out_of": 20,
+        "all_correct_through": "2026-08",
+        "any_correct_through": "2026-08"
+      },
+      {
+        "route": "B",
+        "status": "graded",
+        "prompt_sha256": "99be01bdfb458fc3c0ae923717ae99781c6854f83b20d62e01447319fe0a8e16",
+        "matched_tokens": 6396,
+        "total": 20,
+        "marks": {
+          "V2-N01": {
+            "mark": "match",
+            "guess": false
+          },
+          "D20260601-e6993a17": {
+            "mark": "match",
+            "guess": true
+          },
+          "V2-N07": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N09": {
+            "mark": "match",
+            "guess": false
+          },
+          "D20260708-b88fd222": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N04": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N03": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N05": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N14": {
+            "mark": "match",
+            "guess": false
+          },
+          "D20260812-4f2053e6": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N02": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N13": {
+            "mark": "match",
+            "guess": false
+          },
+          "D20260301-069869cb": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N12": {
+            "mark": "match",
+            "guess": false
+          },
+          "D20260101-17a5c362": {
+            "mark": "match",
+            "guess": false
+          },
+          "D20260803-27964302": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N08": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N15": {
+            "mark": "match",
+            "guess": false
+          },
+          "D20260701-78c054ab": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N11": {
+            "mark": "match",
+            "guess": false
+          }
+        },
+        "correct": 20,
+        "guess_correct": 1,
+        "score": 20,
+        "out_of": 20,
+        "all_correct_through": "2026-08",
+        "any_correct_through": "2026-08"
+      }
+    ],
+    "daily-calibrated-source-sinner": [
+      {
+        "route": "A",
+        "status": "graded",
+        "prompt_sha256": "d1cfb24cecb6c7a6998c080e1af0fc184466e7f62875660e2fafe30f4df134bf",
+        "matched_tokens": 6674,
+        "total": 20,
+        "marks": {
+          "V2-N12": {
+            "mark": "match",
+            "guess": false
+          },
+          "AUG13-TORONTO": {
+            "mark": "miss",
+            "guess": true
+          },
+          "V2-N03": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N06": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N16": {
+            "mark": "match",
+            "guess": true
+          },
+          "AUG14-SPARK": {
+            "mark": "miss",
+            "guess": true
+          },
+          "V2-N05": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N08": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N18": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N07": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N10": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N04": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N14": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N01": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N02": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N15": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N11": {
+            "mark": "match",
+            "guess": false
+          },
+          "JUL12-TENNIS": {
+            "mark": "match",
+            "guess": true
+          },
+          "V2-N13": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N09": {
+            "mark": "match",
+            "guess": false
+          }
+        },
+        "correct": 18,
+        "guess_correct": 2,
+        "score": 18,
+        "out_of": 20,
+        "all_correct_through": "2026-07",
+        "any_correct_through": "2026-07"
+      },
+      {
+        "route": "B",
+        "status": "graded",
+        "prompt_sha256": "d1cfb24cecb6c7a6998c080e1af0fc184466e7f62875660e2fafe30f4df134bf",
+        "matched_tokens": 6352,
+        "total": 20,
+        "marks": {
+          "V2-N12": {
+            "mark": "match",
+            "guess": false
+          },
+          "AUG13-TORONTO": {
+            "mark": "miss",
+            "guess": true
+          },
+          "V2-N03": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N06": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N16": {
+            "mark": "match",
+            "guess": true
+          },
+          "AUG14-SPARK": {
+            "mark": "miss",
+            "guess": true
+          },
+          "V2-N05": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N08": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N18": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N07": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N10": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N04": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N14": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N01": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N02": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N15": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N11": {
+            "mark": "match",
+            "guess": false
+          },
+          "JUL12-TENNIS": {
+            "mark": "match",
+            "guess": true
+          },
+          "V2-N13": {
+            "mark": "match",
+            "guess": false
+          },
+          "V2-N09": {
+            "mark": "match",
+            "guess": false
+          }
+        },
+        "correct": 18,
+        "guess_correct": 2,
+        "score": 18,
+        "out_of": 20,
+        "all_correct_through": "2026-07",
+        "any_correct_through": "2026-07"
+      }
+    ]
+  },
+  "matched_tokens_saved_receipts": 147692
+}

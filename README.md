@@ -31,3 +31,12 @@ python daily.py grade --month 2026-07 --answers answers.txt
 ```
 
 每日档是探索用候选，不等价于固定基线。部分题根据 [Wikipedia Current events](https://en.wikipedia.org/wiki/Portal:Current_events) 的带出处日历改作填空：记录保留 `index_url`（修订版本和日期）及新闻出处，且明示未独立复核原文的题。改编文字注明 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)；原始文章各有各的权利人。归档日期可能是报道日期，某些答案也可能由题面推断。日报成绩只描述这份题库，不拿来确定训练截止日。经模型表现选中的题属于校准集，不能充当未见题测试。
+
+## GPT-6.2 Sol `xhigh` 边界校准
+
+同入口、无工具、无历史，按月筛题后锁定题面，在两条订阅路由分别用新请求复测。分数仍计入猜对；明细保留猜测标记。
+
+- [官方来源边界卷](data/daily-calibrated-source-sinner.json)：两路均 **18/20｜全对 2026-07｜有对 2026-07**。7 月保留 GPT-5.6 家族题，以温网男单决赛替换英国大奖赛，7 月两题均过；8 月换多伦多女单和 Gemini Spark 模型，仍均未过。
+- [宽松探索卷](data/daily-calibrated-ea9741f67e9e.json)：两路均 **20/20｜全对 2026-08｜有对 2026-08**。其中 8 月日食地理题可用较早公布的天象和题面推断，不作为新知识覆盖的证据。
+
+每日整库和各校准卷的分数、日期覆盖及逐题标记见 [exploration-results.json](data/exploration-results.json)。两套校准卷均不替代固定 v2；`daily.py prompt --bank data/daily-calibrated-source-sinner.json` 可只导出官方来源边界卷题面。

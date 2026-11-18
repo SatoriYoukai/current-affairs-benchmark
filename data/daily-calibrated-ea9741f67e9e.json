@@ -1,0 +1,411 @@
+{
+  "version": "daily-calibrated-ea9741f67e9e",
+  "items": [
+    {
+      "id": "N01",
+      "axis": "recall",
+      "date": "2025-11-01",
+      "domain": "体育",
+      "question": "2025年MLB世界大赛第7场，谁在第11局为道奇打出取得领先的本垒打？",
+      "answer": "Will Smith",
+      "aliases": [
+        "威尔·史密斯",
+        "威尔史密斯",
+        "Will D. Smith"
+      ],
+      "kind": "alias",
+      "source": "https://www.mlb.com/news/dodgers-blue-jays-world-series-game-7-facts-and-figures",
+      "source_title": "Dodgers-Blue Jays World Series Game 7 facts and figures",
+      "quote": "hit a solo homer in the 11th inning to give the Dodgers the lead.",
+      "uid": "V2-N01",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "uid": "D20260601-e6993a17",
+      "axis": "recall",
+      "kind": "alias",
+      "date": "2026-06-01",
+      "domain": "Business and economy",
+      "answer": "Blue Diamond Resorts",
+      "aliases": [
+        "Blue Diamond Resorts"
+      ],
+      "question": "2026-06-01 — fill [BLANK]: Canadian hotel operator [BLANK] ends its operations in Cuba, citing reduced air service and operational challenges after managing 62 properties on the island.",
+      "source": "https://www.indopremier.com/ipotnews/newsDetail.php?jdl=Canadian_hotel_group_Blue_Diamond_shuts_Cuba_operations&news_id=1731761&group_news=ALLNEWS&taging_subtype=IRAN&name=&search=y_general&q=IRAN,%20&halaman=1",
+      "source_title": "AFP via Indo Premier",
+      "quote": "Canadian hotel operator Blue Diamond Resorts ends its operations in Cuba, citing reduced air service and operational challenges after managing 62 properties on the island.",
+      "index_url": "https://en.wikipedia.org/w/index.php?oldid=1379920132#2026_June_1",
+      "source_status": "dated_archive_excerpt_with_link; original_not_independently_checked",
+      "related_sources": [],
+      "id": "N02"
+    },
+    {
+      "id": "N03",
+      "axis": "recall",
+      "date": "2026-02-12",
+      "domain": "科技",
+      "question": "OpenAI 2026年2月发布的GPT-5.3-Codex-Spark研究预览，使用的是哪家公司的推理硬件？",
+      "answer": "Cerebras",
+      "aliases": [
+        "Cerebras Systems",
+        "Cerebras WSE-3",
+        "Cerebras WSE",
+        "Cerebras Wafer Scale Engine",
+        "Cerebras晶圆级引擎"
+      ],
+      "kind": "alias",
+      "source": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+      "source_title": "Introducing GPT-5.3-Codex-Spark | OpenAI",
+      "quote": "We’re sharing Codex-Spark on Cerebras as a research preview",
+      "uid": "V2-N07",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "id": "N04",
+      "axis": "recall",
+      "date": "2026-03-04",
+      "domain": "科技",
+      "question": "Apple于2026年3月发布的第一款MacBook Neo，用的是哪款芯片？",
+      "answer": "A18 Pro",
+      "aliases": [
+        "Apple A18 Pro",
+        "苹果A18 Pro",
+        "A18 Pro芯片"
+      ],
+      "kind": "alias",
+      "source": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo",
+      "source_title": "Say hello to MacBook Neo - Apple",
+      "quote": "At the heart of MacBook Neo is A18 Pro",
+      "uid": "V2-N09",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "uid": "D20260708-b88fd222",
+      "axis": "recall",
+      "kind": "alias",
+      "date": "2026-07-08",
+      "domain": "Business and economy",
+      "answer": "Pakistan Stock Exchange",
+      "aliases": [
+        "Pakistan Stock Exchange"
+      ],
+      "question": "2026-07-08 — fill [BLANK]: Stocks on the [BLANK] witness a sharp decline following renewed geopolitical tensions in the Middle East, with the KSE-100 Index falling to 4,626 points.",
+      "source": "https://dunyanews.tv/en/Business/961474-pakistan-stock-exchange-plunges-over-4600-points-as-middle-east-tensi",
+      "source_title": "Dunya News",
+      "quote": "Stocks on the Pakistan Stock Exchange witness a sharp decline following renewed geopolitical tensions in the Middle East, with the KSE-100 Index falling to 4,626 points.",
+      "index_url": "https://en.wikipedia.org/w/index.php?oldid=1373902464#2026_July_8",
+      "source_status": "dated_archive_excerpt_with_link; original_not_independently_checked",
+      "related_sources": [
+        "https://www.arabnews.pk/node/2650134/pakistan"
+      ],
+      "id": "N05"
+    },
+    {
+      "id": "N06",
+      "axis": "recall",
+      "date": "2025-12-17",
+      "domain": "体育",
+      "question": "2025年FIFA洲际杯决赛，巴黎圣日耳曼对弗拉门戈的点球大战中，连续扑出四个点球的门将是谁？",
+      "answer": "Matvei Safonov",
+      "aliases": [
+        "Matvey Safonov",
+        "Safonov",
+        "马特维·萨福诺夫",
+        "马特韦·萨福诺夫",
+        "萨福诺夫",
+        "马特维·萨弗诺夫",
+        "萨弗诺夫",
+        "马特韦·萨弗诺夫"
+      ],
+      "kind": "alias",
+      "source": "https://www.fifa.com/en/tournaments/mens/intercontinentalcup/2025/articles/flamengo-unforgettable-2025",
+      "source_title": "Flamengo's unforgettable 2025 | FIFA Intercontinental Cup",
+      "quote": "four saves from PSG's Matvei Safonov",
+      "uid": "V2-N04",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "id": "N07",
+      "axis": "recall",
+      "date": "2025-12-11",
+      "domain": "科技",
+      "question": "2025年12月GPT-5.2发布时，标准版API每百万输出token的官方定价是多少美元？只填美元数。",
+      "answer": "14",
+      "aliases": [
+        "14美元",
+        "$14",
+        "US$14"
+      ],
+      "kind": "number",
+      "source": "https://openai.com/index/introducing-gpt-5-2",
+      "source_title": "Introducing GPT-5.2 | OpenAI",
+      "quote": "$14/1M output tokens",
+      "uid": "V2-N03",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "id": "N08",
+      "axis": "recall",
+      "date": "2026-01-28",
+      "domain": "宏观",
+      "question": "2026年1月28日美联储表决维持利率区间，沃勒投了反对票。另一名主张当次降息、也投反对票的委员是谁？",
+      "answer": "Stephen Miran",
+      "aliases": [
+        "Miran",
+        "Stephen I. Miran",
+        "Stephen I Miran",
+        "米兰",
+        "米兰恩",
+        "米兰姆",
+        "史蒂芬·米兰",
+        "斯蒂芬·米兰",
+        "史蒂文·米兰",
+        "斯蒂芬·米兰恩",
+        "史蒂芬·米兰恩"
+      ],
+      "kind": "alias",
+      "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a.htm",
+      "source_title": "Federal Reserve Board - Federal Reserve issues FOMC statement",
+      "quote": "Voting against this action were Stephen I. Miran and Christopher J. Waller, who preferred to lower the target range for the federal funds rate by 1/4 percentage point at this meeting.",
+      "uid": "V2-N05",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "id": "N09",
+      "axis": "recall",
+      "date": "2026-05-19",
+      "domain": "科技",
+      "question": "Google I/O 2026当天，Gemini 3.5家族率先全面开放的型号全名是什么？",
+      "answer": "Gemini 3.5 Flash",
+      "aliases": [
+        "3.5 Flash",
+        "Google Gemini 3.5 Flash"
+      ],
+      "kind": "alias",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
+      "source_title": "Gemini 3.5: frontier intelligence with action",
+      "quote": "Gemini 3.5 Flash is generally available",
+      "uid": "V2-N14",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "uid": "D20260812-4f2053e6",
+      "axis": "recall",
+      "kind": "alias",
+      "date": "2026-08-12",
+      "domain": "Science and technology",
+      "answer": "Africa",
+      "aliases": [
+        "Africa"
+      ],
+      "question": "2026-08-12 — fill [BLANK]: A total solar eclipse occurs in Greenland, Iceland, and Spain, with partial eclipses visible over much of northern North America, Europe (except most of Ukraine, Greece, Bulgaria and Russia), northwestern [BLANK] and northern Asian Russia. It is the first total eclipse observable in mainland Europe since August 1999.",
+      "source": "https://www.timeanddate.com/eclipse/solar/2026-august-12",
+      "source_title": "Time and Date",
+      "quote": "A total solar eclipse occurs in Greenland, Iceland, and Spain, with partial eclipses visible over much of northern North America, Europe (except most of Ukraine, Greece, Bulgaria and Russia), northwestern Africa and northern Asian Russia. It is the first total eclipse observable in mainland Europe since August 1999.",
+      "index_url": "https://en.wikipedia.org/w/index.php?oldid=1379735043#2026_August_12",
+      "source_status": "dated_archive_excerpt_with_link; original_not_independently_checked",
+      "related_sources": [
+        "https://eclipsewise.com/solar/SEprime/2001-2100/SE2026Aug12Tprime.html"
+      ],
+      "id": "N10"
+    },
+    {
+      "id": "N11",
+      "axis": "recall",
+      "date": "2025-11-18",
+      "domain": "科技",
+      "question": "2025年11月Google发布Gemini 3时，同时发布的智能体开发平台叫什么？",
+      "answer": "Google Antigravity",
+      "aliases": [
+        "Antigravity",
+        "谷歌Antigravity",
+        "谷歌反重力",
+        "反重力"
+      ],
+      "kind": "alias",
+      "source": "https://blog.google/products-and-platforms/products/gemini/gemini-3",
+      "source_title": "Gemini 3: Introducing the latest Gemini AI model from Google",
+      "quote": "our new agentic development platform, Google Antigravity.",
+      "uid": "V2-N02",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "id": "N12",
+      "axis": "recall",
+      "date": "2026-05-16",
+      "domain": "文化",
+      "question": "2026年在维也纳举办的欧洲歌唱大赛，哪一个国家首次夺得该赛事冠军？",
+      "answer": "Bulgaria",
+      "aliases": [
+        "保加利亚",
+        "保加利亚共和国"
+      ],
+      "kind": "alias",
+      "source": "https://www.pbs.org/newshour/arts/bulgaria-wins-the-70th-eurovision-song-contest-with-bangaranga",
+      "source_title": "Bulgaria wins the 70th Eurovision Song Contest with 'Bangaranga' | PBS News",
+      "quote": "giving the southeast European country its first-ever Eurovision victory",
+      "uid": "V2-N13",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "uid": "D20260301-069869cb",
+      "axis": "recall",
+      "kind": "alias",
+      "date": "2026-03-01",
+      "domain": "Science and technology",
+      "answer": "AI-generated content",
+      "aliases": [
+        "AI-generated content"
+      ],
+      "question": "2026-03-01 — fill [BLANK]: Vietnam's artificial intelligence (AI) law takes effect, mandating labeling of [BLANK] and disclosure when users interact with automated systems. The law, which applies to domestic and foreign developers, providers, and deployers operating in the country, also provides for the creation of a national AI data center.",
+      "source": "https://www.straitstimes.com/asia/se-asia/vietnam-ai-law-takes-effect-first-in-south-east-asia",
+      "source_title": "AFP via The Straits Times",
+      "quote": "Vietnam's artificial intelligence (AI) law takes effect, mandating labeling of AI-generated content and disclosure when users interact with automated systems. The law, which applies to domestic and foreign developers, providers, and deployers operating in the country, also provides for the creation of a national AI data center.",
+      "index_url": "https://en.wikipedia.org/w/index.php?oldid=1361624709#2026_March_1",
+      "source_status": "dated_archive_excerpt_with_link; original_not_independently_checked",
+      "related_sources": [],
+      "id": "N13"
+    },
+    {
+      "id": "N14",
+      "axis": "recall",
+      "date": "2026-04-16",
+      "domain": "科技",
+      "question": "Anthropic在2026年4月公布，Claude Opus 4.7可以接受的输入图像最长边上限是多少像素？只填数值。",
+      "answer": "2576",
+      "aliases": [
+        "2,576",
+        "2576像素",
+        "2,576像素",
+        "2576 px"
+      ],
+      "kind": "number",
+      "source": "https://www.anthropic.com/news/claude-opus-4-7",
+      "source_title": "Introducing Claude Opus 4.7 \\ Anthropic",
+      "quote": "it can accept images up to 2,576 pixels on the long edge",
+      "uid": "V2-N12",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "uid": "D20260101-17a5c362",
+      "axis": "recall",
+      "kind": "alias",
+      "date": "2026-01-01",
+      "domain": "Business and economy",
+      "answer": "Turkmenistan",
+      "aliases": [
+        "Turkmenistan"
+      ],
+      "question": "2026-01-01 — fill [BLANK]: [BLANK] legalizes the mining and exchange of cryptocurrency as digital assets, but maintains that digital currency cannot be used as legal tender.",
+      "source": "https://apnews.com/article/turkmenistan-mining-exchanges-cryptocurrency-4504a5abac729d119d343d4a38e0be1a",
+      "source_title": "AP",
+      "quote": "Turkmenistan legalizes the mining and exchange of cryptocurrency as digital assets, but maintains that digital currency cannot be used as legal tender.",
+      "index_url": "https://en.wikipedia.org/w/index.php?oldid=1344736862#2026_January_1",
+      "source_status": "dated_archive_excerpt_with_link; original_not_independently_checked",
+      "related_sources": [],
+      "id": "N15"
+    },
+    {
+      "uid": "D20260803-27964302",
+      "axis": "recall",
+      "kind": "alias",
+      "date": "2026-08-03",
+      "domain": "Sports",
+      "answer": "Don Garber",
+      "aliases": [
+        "Don Garber"
+      ],
+      "question": "2026-08-03 — fill [BLANK]: Major League Soccer, the top flight of men's soccer in the U.S. and Canada, announces that Larry Berg, currently a co-owner of Los Angeles FC (LAFC) in that league, will succeed [BLANK] as league commissioner at the start of 2027. Berg will sell his interest in LAFC before assuming his new position.",
+      "source": "https://apnews.com/article/mls-new-commissioner-berg-867851cd4d30855a5e1217bdc619cb0e",
+      "source_title": "AP",
+      "quote": "Major League Soccer, the top flight of men's soccer in the U.S. and Canada, announces that Larry Berg, currently a co-owner of Los Angeles FC (LAFC) in that league, will succeed Don Garber as league commissioner at the start of 2027. Berg will sell his interest in LAFC before assuming his new position.",
+      "index_url": "https://en.wikipedia.org/w/index.php?oldid=1379735043#2026_August_3",
+      "source_status": "dated_archive_excerpt_with_link; original_not_independently_checked",
+      "related_sources": [
+        "https://www.theguardian.com/football/2026/aug/03/larry-berg-mls-commissioner-vote"
+      ],
+      "id": "N16"
+    },
+    {
+      "id": "N17",
+      "axis": "recall",
+      "date": "2026-02-22",
+      "domain": "体育",
+      "question": "米兰科尔蒂纳冬奥会男子冰球决赛，美国对加拿大的加时制胜球由谁打进？",
+      "answer": "Jack Hughes",
+      "aliases": [
+        "杰克·休斯",
+        "杰克休斯"
+      ],
+      "kind": "alias",
+      "source": "https://www.nhl.com/news/topic/olympics/united-states-canada-2026-olympics-gold-medal-game-recap-february-22-2026",
+      "source_title": "Jack Hughes scores in OT, Team USA wins Olympic gold medal game against Canada | NHL.com",
+      "quote": "[Jack Hughes](/player/jack-hughes-8481559) is the poster boy after he scored",
+      "uid": "V2-N08",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "id": "N18",
+      "axis": "recall",
+      "date": "2026-06-09",
+      "domain": "科技",
+      "question": "Anthropic与Claude Fable 5同批发布的另一款模型叫什么？",
+      "answer": "Claude Mythos 5",
+      "aliases": [
+        "Mythos 5",
+        "Anthropic Claude Mythos 5"
+      ],
+      "kind": "alias",
+      "source": "https://www.anthropic.com/news/redeploying-fable-5",
+      "source_title": "Redeploying Claude Fable 5 \\ Anthropic",
+      "quote": "We released [Fable 5 and Mythos 5]",
+      "uid": "V2-N15",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "uid": "D20260701-78c054ab",
+      "axis": "recall",
+      "kind": "alias",
+      "date": "2026-07-01",
+      "domain": "Arts and culture",
+      "answer": "PlayStation Store",
+      "aliases": [
+        "PlayStation Store"
+      ],
+      "question": "2026-07-01 — fill [BLANK]: Sony says it will stop releasing new PlayStation games on physical optical discs from January 2028, citing consumer preference for digital media, and will offer new titles through the [BLANK] and other digital retailers.",
+      "source": "https://www.france24.com/en/live-news/20260701-sony-says-to-stop-releasing-playstation-games-on-discs",
+      "source_title": "AFP via France 24",
+      "quote": "Sony says it will stop releasing new PlayStation games on physical optical discs from January 2028, citing consumer preference for digital media, and will offer new titles through the PlayStation Store and other digital retailers.",
+      "index_url": "https://en.wikipedia.org/w/index.php?oldid=1373902464#2026_July_1",
+      "source_status": "dated_archive_excerpt_with_link; original_not_independently_checked",
+      "related_sources": [],
+      "id": "N19"
+    },
+    {
+      "id": "N20",
+      "axis": "recall",
+      "date": "2026-04-10",
+      "domain": "航天",
+      "question": "阿耳忒弥斯II号2026年4月返航时，乘员舱溅落在美国哪座城市的外海？",
+      "answer": "San Diego",
+      "aliases": [
+        "圣迭戈",
+        "圣地亚哥",
+        "圣迭哥",
+        "圣迭戈外海",
+        "圣地亚哥外海",
+        "加州圣迭戈",
+        "加州圣地亚哥",
+        "圣迭戈近海",
+        "圣地亚哥近海"
+      ],
+      "kind": "alias",
+      "source": "https://www.nasa.gov/gallery/artemis-ii-splashdown-and-recovery/page/1",
+      "source_title": "Artemis II Splashdown and Recovery - NASA",
+      "quote": "off the coast of San Diego, completing a nearly 10-day journey",
+      "uid": "V2-N11",
+      "source_status": "frozen_v2_source_verified"
+    }
+  ],
+  "prompt_hash": "99be01bdfb458fc3c0ae923717ae99781c6854f83b20d62e01447319fe0a8e16"
+}

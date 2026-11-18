@@ -26,3 +26,12 @@ class DailyTest(unittest.TestCase):
         self.assertEqual((score['correct'],score['total']),(31,31))
         self.assertEqual(len(set(i['id'] for i in rows)),31)
         self.assertEqual(len(daily.benchmark.make_prompt(rows).splitlines()),32)
+
+    def test_confirmed_form_matches_prompt_digest_and_three_metrics(self):
+        path=daily.DATA/'daily-calibrated-ea9741f67e9e.json'
+        doc=json.loads(path.read_bytes())
+        rows=daily.load_form(path,None)
+        self.assertEqual(daily.benchmark.digest(daily.benchmark.make_prompt(rows)),doc['prompt_hash'])
+        answer='\n'.join(i['id']+'='+i['answer'] for i in rows)
+        score=daily.score(answer,rows)
+        self.assertEqual((score['score'],score['all_correct_through'],score['any_correct_through']),(20,'2026-08','2026-08'))
