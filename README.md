@@ -40,3 +40,11 @@ python daily.py grade --month 2026-07 --answers answers.txt
 - [宽松探索卷](data/daily-calibrated-ea9741f67e9e.json)：两路均 **20/20｜全对 2026-08｜有对 2026-08**。其中 8 月日食地理题可用较早公布的天象和题面推断，不作为新知识覆盖的证据。
 
 每日整库和各校准卷的分数、日期覆盖及逐题标记见 [exploration-results.json](data/exploration-results.json)。两套校准卷均不替代固定 v2；`daily.py prompt --bank data/daily-calibrated-source-sinner.json` 可只导出官方来源边界卷题面。
+
+## 30 题边界日测
+
+与历史 20 题 v2 独立记分。保留 19 道历史题，对 2026 年 6–7 月增补 11 道；这两个月按 1–10 日、11–20 日、21 日至月底分档，其余月份仍按月。全对前缀要求连续各档全对，有对前缀要求连续各档至少一题答对；用档末日期表示，不是训练截止日。
+
+新增题检查实际赛果、赛后奖项或公布的投票等；剔除题面/事前预告可强推的答案、6.1 在对照确认中过关的题。严格与宽松两份旧卷的 6.1 反测也保留在 [30 题基线](data/boundary30-baseline-v2.json)。新增题可能是 6.2 也答错的上边界探针，不把它们误当已验证的阳性识别题。
+
+用 `python boundary30.py prompt` 生成整卷题面，或用 `python boundary30.py prompt --batch 1` 与 `--batch 2` 生成分两次发送的冻结日测输入（各 15 道）。答卷合在一个文件后用 `python boundary30.py grade answers.txt` 查看分数、两种前缀、逐档和逐题记录。只有用于校准和日测的两批题面哈希绑定到基线。

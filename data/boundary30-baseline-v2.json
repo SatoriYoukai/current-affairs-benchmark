@@ -1,0 +1,1111 @@
+{
+  "version": "boundary30-v2",
+  "prompt_hash": "845a0a0ea306389af6f8799c7b0912fb9d4f822df4e6601b13f4256d9a90c3da",
+  "batch_hashes": [
+    "5b162c9bdbf2b2766a616ddfd9e5646adb5d7e6d352a56c773c334bb5a35a00a",
+    "28c524ab15a0e43d92b6cb8978c2424ee3512d60bf9300150d3a11510ceb1ee2"
+  ],
+  "bank_sha256": "e1a9b3f7baeff74dd89a6f1db6857de88b00886bcb211ca1771d98edb5fa294d",
+  "runs": [
+    {
+      "route": "A",
+      "model": "gpt-6.1-sol",
+      "effort": "xhigh",
+      "status": "graded",
+      "score": 14,
+      "out_of": 30,
+      "all_correct_through": "2026-05-31",
+      "any_correct_through": "2026-05-31",
+      "spans": [
+        {
+          "start": "2025-11-01",
+          "end": "2025-11-30",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2025-12-31",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-01-31",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-02-01",
+          "end": "2026-02-28",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-03-01",
+          "end": "2026-03-31",
+          "correct": 2,
+          "total": 2,
+          "guesses": 2
+        },
+        {
+          "start": "2026-04-01",
+          "end": "2026-04-30",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-05-01",
+          "end": "2026-05-31",
+          "correct": 2,
+          "total": 2,
+          "guesses": 2
+        },
+        {
+          "start": "2026-06-01",
+          "end": "2026-06-10",
+          "correct": 0,
+          "total": 3,
+          "guesses": 0
+        },
+        {
+          "start": "2026-06-11",
+          "end": "2026-06-20",
+          "correct": 0,
+          "total": 4,
+          "guesses": 0
+        },
+        {
+          "start": "2026-06-21",
+          "end": "2026-06-30",
+          "correct": 0,
+          "total": 1,
+          "guesses": 0
+        },
+        {
+          "start": "2026-07-01",
+          "end": "2026-07-10",
+          "correct": 0,
+          "total": 3,
+          "guesses": 0
+        },
+        {
+          "start": "2026-07-11",
+          "end": "2026-07-20",
+          "correct": 0,
+          "total": 1,
+          "guesses": 0
+        },
+        {
+          "start": "2026-07-21",
+          "end": "2026-07-31",
+          "correct": 0,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-08-01",
+          "end": "2026-08-31",
+          "correct": 0,
+          "total": 2,
+          "guesses": 0
+        }
+      ],
+      "matched_tokens": 12516,
+      "items": {
+        "N01": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N02": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N03": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N04": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N05": {
+          "mark": "match",
+          "guess": true
+        },
+        "N06": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N07": {
+          "mark": "match",
+          "guess": false
+        },
+        "N08": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N09": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N10": {
+          "mark": "match",
+          "guess": true
+        },
+        "N11": {
+          "mark": "match",
+          "guess": true
+        },
+        "N12": {
+          "mark": "match",
+          "guess": true
+        },
+        "N13": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N14": {
+          "mark": "match",
+          "guess": false
+        },
+        "N15": {
+          "mark": "match",
+          "guess": false
+        },
+        "N16": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N17": {
+          "mark": "match",
+          "guess": false
+        },
+        "N18": {
+          "mark": "match",
+          "guess": false
+        },
+        "N19": {
+          "mark": "match",
+          "guess": false
+        },
+        "N20": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N21": {
+          "mark": "match",
+          "guess": false
+        },
+        "N22": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N23": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N24": {
+          "mark": "match",
+          "guess": false
+        },
+        "N25": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N26": {
+          "mark": "match",
+          "guess": false
+        },
+        "N27": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N28": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N29": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N30": {
+          "mark": "match",
+          "guess": false
+        }
+      },
+      "new_marks": {
+        "Q01": "unknown",
+        "Q19": "unknown",
+        "Q10": "unknown",
+        "Q03": "unknown",
+        "Q17": "unknown",
+        "Q24": "unknown",
+        "Q20": "unknown",
+        "Q27": "unknown",
+        "Q15": "unknown",
+        "Q18": "unknown",
+        "Q07": "unknown"
+      }
+    },
+    {
+      "route": "B",
+      "model": "gpt-6.1-sol",
+      "effort": "xhigh",
+      "status": "graded",
+      "score": 15,
+      "out_of": 30,
+      "all_correct_through": "2026-05-31",
+      "any_correct_through": "2026-05-31",
+      "spans": [
+        {
+          "start": "2025-11-01",
+          "end": "2025-11-30",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2025-12-31",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-01-31",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-02-01",
+          "end": "2026-02-28",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-03-01",
+          "end": "2026-03-31",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-04-01",
+          "end": "2026-04-30",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-05-01",
+          "end": "2026-05-31",
+          "correct": 2,
+          "total": 2,
+          "guesses": 1
+        },
+        {
+          "start": "2026-06-01",
+          "end": "2026-06-10",
+          "correct": 0,
+          "total": 3,
+          "guesses": 0
+        },
+        {
+          "start": "2026-06-11",
+          "end": "2026-06-20",
+          "correct": 1,
+          "total": 4,
+          "guesses": 1
+        },
+        {
+          "start": "2026-06-21",
+          "end": "2026-06-30",
+          "correct": 0,
+          "total": 1,
+          "guesses": 0
+        },
+        {
+          "start": "2026-07-01",
+          "end": "2026-07-10",
+          "correct": 0,
+          "total": 3,
+          "guesses": 0
+        },
+        {
+          "start": "2026-07-11",
+          "end": "2026-07-20",
+          "correct": 0,
+          "total": 1,
+          "guesses": 0
+        },
+        {
+          "start": "2026-07-21",
+          "end": "2026-07-31",
+          "correct": 0,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-08-01",
+          "end": "2026-08-31",
+          "correct": 0,
+          "total": 2,
+          "guesses": 0
+        }
+      ],
+      "matched_tokens": 12850,
+      "items": {
+        "N01": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N02": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N03": {
+          "mark": "match",
+          "guess": true
+        },
+        "N04": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N05": {
+          "mark": "match",
+          "guess": false
+        },
+        "N06": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N07": {
+          "mark": "match",
+          "guess": false
+        },
+        "N08": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N09": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N10": {
+          "mark": "match",
+          "guess": false
+        },
+        "N11": {
+          "mark": "match",
+          "guess": true
+        },
+        "N12": {
+          "mark": "match",
+          "guess": false
+        },
+        "N13": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N14": {
+          "mark": "match",
+          "guess": false
+        },
+        "N15": {
+          "mark": "match",
+          "guess": false
+        },
+        "N16": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N17": {
+          "mark": "match",
+          "guess": false
+        },
+        "N18": {
+          "mark": "match",
+          "guess": false
+        },
+        "N19": {
+          "mark": "match",
+          "guess": false
+        },
+        "N20": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N21": {
+          "mark": "match",
+          "guess": false
+        },
+        "N22": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N23": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N24": {
+          "mark": "match",
+          "guess": false
+        },
+        "N25": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N26": {
+          "mark": "match",
+          "guess": false
+        },
+        "N27": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N28": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N29": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N30": {
+          "mark": "match",
+          "guess": false
+        }
+      },
+      "new_marks": {
+        "Q01": "unknown",
+        "Q19": "unknown",
+        "Q10": "unknown",
+        "Q03": "unknown",
+        "Q17": "unknown",
+        "Q24": "unknown",
+        "Q20": "unknown",
+        "Q27": "unknown",
+        "Q15": "unknown",
+        "Q18": "unknown",
+        "Q07": "unknown"
+      }
+    },
+    {
+      "route": "A",
+      "model": "gpt-6.2-sol",
+      "effort": "xhigh",
+      "status": "graded",
+      "score": 20,
+      "out_of": 30,
+      "all_correct_through": "2025-12-31",
+      "any_correct_through": "2026-07-10",
+      "spans": [
+        {
+          "start": "2025-11-01",
+          "end": "2025-11-30",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2025-12-31",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-01-31",
+          "correct": 1,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-02-01",
+          "end": "2026-02-28",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-03-01",
+          "end": "2026-03-31",
+          "correct": 2,
+          "total": 2,
+          "guesses": 1
+        },
+        {
+          "start": "2026-04-01",
+          "end": "2026-04-30",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-05-01",
+          "end": "2026-05-31",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-06-01",
+          "end": "2026-06-10",
+          "correct": 2,
+          "total": 3,
+          "guesses": 1
+        },
+        {
+          "start": "2026-06-11",
+          "end": "2026-06-20",
+          "correct": 2,
+          "total": 4,
+          "guesses": 2
+        },
+        {
+          "start": "2026-06-21",
+          "end": "2026-06-30",
+          "correct": 1,
+          "total": 1,
+          "guesses": 1
+        },
+        {
+          "start": "2026-07-01",
+          "end": "2026-07-10",
+          "correct": 1,
+          "total": 3,
+          "guesses": 1
+        },
+        {
+          "start": "2026-07-11",
+          "end": "2026-07-20",
+          "correct": 0,
+          "total": 1,
+          "guesses": 0
+        },
+        {
+          "start": "2026-07-21",
+          "end": "2026-07-31",
+          "correct": 1,
+          "total": 2,
+          "guesses": 1
+        },
+        {
+          "start": "2026-08-01",
+          "end": "2026-08-31",
+          "correct": 0,
+          "total": 2,
+          "guesses": 0
+        }
+      ],
+      "matched_tokens": 13334,
+      "items": {
+        "N01": {
+          "mark": "match",
+          "guess": true
+        },
+        "N02": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N03": {
+          "mark": "match",
+          "guess": true
+        },
+        "N04": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N05": {
+          "mark": "match",
+          "guess": false
+        },
+        "N06": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N07": {
+          "mark": "match",
+          "guess": false
+        },
+        "N08": {
+          "mark": "match",
+          "guess": true
+        },
+        "N09": {
+          "mark": "match",
+          "guess": true
+        },
+        "N10": {
+          "mark": "match",
+          "guess": true
+        },
+        "N11": {
+          "mark": "match",
+          "guess": false
+        },
+        "N12": {
+          "mark": "match",
+          "guess": false
+        },
+        "N13": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N14": {
+          "mark": "match",
+          "guess": false
+        },
+        "N15": {
+          "mark": "match",
+          "guess": false
+        },
+        "N16": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N17": {
+          "mark": "match",
+          "guess": false
+        },
+        "N18": {
+          "mark": "miss",
+          "guess": false
+        },
+        "N19": {
+          "mark": "match",
+          "guess": false
+        },
+        "N20": {
+          "mark": "match",
+          "guess": true
+        },
+        "N21": {
+          "mark": "match",
+          "guess": false
+        },
+        "N22": {
+          "mark": "match",
+          "guess": false
+        },
+        "N23": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N24": {
+          "mark": "match",
+          "guess": false
+        },
+        "N25": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N26": {
+          "mark": "match",
+          "guess": false
+        },
+        "N27": {
+          "mark": "match",
+          "guess": true
+        },
+        "N28": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N29": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N30": {
+          "mark": "match",
+          "guess": false
+        }
+      },
+      "new_marks": {
+        "Q01": "miss",
+        "Q19": "miss",
+        "Q10": "miss",
+        "Q03": "match",
+        "Q17": "match",
+        "Q24": "miss",
+        "Q20": "miss",
+        "Q27": "match",
+        "Q15": "match",
+        "Q18": "miss",
+        "Q07": "miss"
+      }
+    },
+    {
+      "route": "B",
+      "model": "gpt-6.2-sol",
+      "effort": "xhigh",
+      "status": "graded",
+      "score": 21,
+      "out_of": 30,
+      "all_correct_through": "2026-06-10",
+      "any_correct_through": "2026-07-10",
+      "spans": [
+        {
+          "start": "2025-11-01",
+          "end": "2025-11-30",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2025-12-01",
+          "end": "2025-12-31",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-01-01",
+          "end": "2026-01-31",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-02-01",
+          "end": "2026-02-28",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-03-01",
+          "end": "2026-03-31",
+          "correct": 2,
+          "total": 2,
+          "guesses": 1
+        },
+        {
+          "start": "2026-04-01",
+          "end": "2026-04-30",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-05-01",
+          "end": "2026-05-31",
+          "correct": 2,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-06-01",
+          "end": "2026-06-10",
+          "correct": 3,
+          "total": 3,
+          "guesses": 2
+        },
+        {
+          "start": "2026-06-11",
+          "end": "2026-06-20",
+          "correct": 2,
+          "total": 4,
+          "guesses": 2
+        },
+        {
+          "start": "2026-06-21",
+          "end": "2026-06-30",
+          "correct": 1,
+          "total": 1,
+          "guesses": 1
+        },
+        {
+          "start": "2026-07-01",
+          "end": "2026-07-10",
+          "correct": 1,
+          "total": 3,
+          "guesses": 1
+        },
+        {
+          "start": "2026-07-11",
+          "end": "2026-07-20",
+          "correct": 0,
+          "total": 1,
+          "guesses": 0
+        },
+        {
+          "start": "2026-07-21",
+          "end": "2026-07-31",
+          "correct": 0,
+          "total": 2,
+          "guesses": 0
+        },
+        {
+          "start": "2026-08-01",
+          "end": "2026-08-31",
+          "correct": 0,
+          "total": 2,
+          "guesses": 0
+        }
+      ],
+      "matched_tokens": 13783,
+      "items": {
+        "N01": {
+          "mark": "match",
+          "guess": true
+        },
+        "N02": {
+          "mark": "match",
+          "guess": true
+        },
+        "N03": {
+          "mark": "match",
+          "guess": true
+        },
+        "N04": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N05": {
+          "mark": "match",
+          "guess": false
+        },
+        "N06": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N07": {
+          "mark": "match",
+          "guess": false
+        },
+        "N08": {
+          "mark": "match",
+          "guess": true
+        },
+        "N09": {
+          "mark": "match",
+          "guess": true
+        },
+        "N10": {
+          "mark": "match",
+          "guess": true
+        },
+        "N11": {
+          "mark": "match",
+          "guess": false
+        },
+        "N12": {
+          "mark": "match",
+          "guess": false
+        },
+        "N13": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N14": {
+          "mark": "match",
+          "guess": false
+        },
+        "N15": {
+          "mark": "match",
+          "guess": false
+        },
+        "N16": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N17": {
+          "mark": "match",
+          "guess": false
+        },
+        "N18": {
+          "mark": "match",
+          "guess": false
+        },
+        "N19": {
+          "mark": "match",
+          "guess": false
+        },
+        "N20": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N21": {
+          "mark": "match",
+          "guess": false
+        },
+        "N22": {
+          "mark": "match",
+          "guess": false
+        },
+        "N23": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N24": {
+          "mark": "match",
+          "guess": false
+        },
+        "N25": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N26": {
+          "mark": "match",
+          "guess": false
+        },
+        "N27": {
+          "mark": "match",
+          "guess": true
+        },
+        "N28": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N29": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N30": {
+          "mark": "match",
+          "guess": false
+        }
+      },
+      "new_marks": {
+        "Q01": "match",
+        "Q19": "miss",
+        "Q10": "miss",
+        "Q03": "match",
+        "Q17": "match",
+        "Q24": "miss",
+        "Q20": "miss",
+        "Q27": "miss",
+        "Q15": "match",
+        "Q18": "miss",
+        "Q07": "miss"
+      }
+    }
+  ],
+  "prior_6_1_replacement_audit": {
+    "daily-calibrated-source-sinner": {
+      "A": {
+        "AUG13-TORONTO": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "AUG14-SPARK": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "JUL12-TENNIS": {
+          "mark": "unknown",
+          "guess": false
+        }
+      },
+      "B": {
+        "AUG13-TORONTO": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "AUG14-SPARK": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "JUL12-TENNIS": {
+          "mark": "unknown",
+          "guess": false
+        }
+      }
+    },
+    "daily-calibrated-ea9741f67e9e": {
+      "A": {
+        "D20260601-e6993a17": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260708-b88fd222": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260812-4f2053e6": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260301-069869cb": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260101-17a5c362": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260803-27964302": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260701-78c054ab": {
+          "mark": "match",
+          "guess": false
+        }
+      },
+      "B": {
+        "D20260601-e6993a17": {
+          "mark": "match",
+          "guess": true
+        },
+        "D20260708-b88fd222": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260812-4f2053e6": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260301-069869cb": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260101-17a5c362": {
+          "mark": "miss",
+          "guess": false
+        },
+        "D20260803-27964302": {
+          "mark": "match",
+          "guess": false
+        },
+        "D20260701-78c054ab": {
+          "mark": "match",
+          "guess": false
+        }
+      }
+    }
+  },
+  "selection": {
+    "new_items": [
+      "Q01",
+      "Q03",
+      "Q07",
+      "Q10",
+      "Q15",
+      "Q17",
+      "Q18",
+      "Q19",
+      "Q20",
+      "Q24",
+      "Q27"
+    ],
+    "discarded_from_initial_30": [
+      "Q06",
+      "JUL12-TENNIS",
+      "Q25"
+    ],
+    "common_anchors": 19,
+    "new_items_zero_hits_6_1": true
+  }
+}

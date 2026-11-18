@@ -1,0 +1,778 @@
+{
+  "version": "boundary30-v2",
+  "items": [
+    {
+      "id": "N01",
+      "axis": "recall",
+      "date": "2026-07-09",
+      "domain": "科技",
+      "question": "OpenAI 2026年7月9日正式开放GPT-5.6家族，三个型号的名称分别是什么？",
+      "answer": "Sol、Terra、Luna",
+      "aliases": [],
+      "kind": "legacy",
+      "source": "https://openai.com/index/gpt-5-6",
+      "source_title": "GPT-5.6: Frontier intelligence that scales with your ambition | OpenAI",
+      "quote": "our new flagship, **Sol**, alongside **Terra**, a balanced model for everyday work, and **Luna**",
+      "legacy": "B08",
+      "uid": "V2-N18",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "uid": "Q01",
+      "date": "2026-06-06",
+      "domain": "sport",
+      "event": "sport-rg-w",
+      "axis": "recall",
+      "kind": "alias",
+      "question": "2026年法国网球公开赛女单决赛，最终夺冠的是谁？",
+      "answer": "Mirra Andreeva",
+      "aliases": [
+        "Andreeva",
+        "安德烈耶娃",
+        "米拉·安德烈耶娃"
+      ],
+      "source": "https://www.rolandgarros.com/en-us/article/2026-edition-rg-live-saturday-june-6",
+      "source_title": "RG Live - Saturday June 6 - Roland-Garros 2027 - The official site",
+      "quote": "teenager Mirra Andreeva, who wins her first Grand Slam title",
+      "novelty_basis": "fixed by the dated final result, actual launch, new measurement, award decision or reported policy vote; prompt does not expose the result",
+      "source_status": "official_excerpt_verified",
+      "status": "new_boundary",
+      "screening": {
+        "6.1": "unknown",
+        "6.2": "miss"
+      },
+      "id": "N02"
+    },
+    {
+      "id": "N03",
+      "axis": "recall",
+      "date": "2026-06-12",
+      "domain": "体育",
+      "question": "2026年男足世界杯，加拿大6月12日在多伦多小组赛首战对波黑，最终比分是多少？",
+      "answer": "1-1",
+      "aliases": [
+        "1比1",
+        "1:1",
+        "1：1",
+        "1–1",
+        "1—1",
+        "1-1平",
+        "1:1平",
+        "1比1平"
+      ],
+      "kind": "alias",
+      "source": "https://inside.fifa.com/en/news/toronto-stadium-world-cup-2026-modric-ronaldo",
+      "source_title": "FIFA World Cup 2026™ curtain falls in Toronto after historic first for Canada",
+      "quote": "a 1-1 draw against Bosnia and Herzegovina",
+      "uid": "V2-N16",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "uid": "Q19",
+      "date": "2026-07-06",
+      "domain": "sport",
+      "event": "sport-fide-zagreb",
+      "axis": "recall",
+      "kind": "alias",
+      "question": "2026年克罗地亚超快棋和快棋赛在萨格勒布打到最后的突然死亡加赛，最终冠军是谁？",
+      "answer": "Alireza Firouzja",
+      "aliases": [
+        "Firouzja",
+        "菲罗兹贾",
+        "菲鲁兹贾",
+        "菲鲁贾",
+        "阿里雷扎·菲罗兹贾",
+        "阿里雷扎·菲鲁兹贾"
+      ],
+      "source": "https://www.fide.com/alireza-firouzja-triumphs-in-historic-armageddon-finish-to-win-super-rapid-blitz-croatia-2026",
+      "source_title": "Alireza Firouzja triumphs in historic Armageddon finish to win Super Rapid & Blitz Croatia 2026 – International Chess Federation",
+      "quote": "captured the Super Rapid & Blitz Croatia 2026 title",
+      "novelty_basis": "fixed by the dated final result, actual launch, new measurement, award decision or reported policy vote; prompt does not expose the result",
+      "source_status": "official_excerpt_verified",
+      "status": "new_boundary",
+      "screening": {
+        "6.1": "unknown",
+        "6.2": "miss"
+      },
+      "id": "N04"
+    },
+    {
+      "id": "N05",
+      "axis": "recall",
+      "date": "2026-05-16",
+      "domain": "文化",
+      "question": "2026年在维也纳举办的欧洲歌唱大赛，哪一个国家首次夺得该赛事冠军？",
+      "answer": "Bulgaria",
+      "aliases": [
+        "保加利亚",
+        "保加利亚共和国"
+      ],
+      "kind": "alias",
+      "source": "https://www.pbs.org/newshour/arts/bulgaria-wins-the-70th-eurovision-song-contest-with-bangaranga",
+      "source_title": "Bulgaria wins the 70th Eurovision Song Contest with 'Bangaranga' | PBS News",
+      "quote": "giving the southeast European country its first-ever Eurovision victory",
+      "uid": "V2-N13",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "uid": "Q10",
+      "date": "2026-06-14",
+      "domain": "sport",
+      "event": "sport-nhl-finals",
+      "axis": "recall",
+      "kind": "alias",
+      "question": "2026年NHL斯坦利杯决赛结束后，康恩·史密斯奖（季后赛MVP）给了谁？",
+      "answer": "Jordan Staal",
+      "aliases": [
+        "Jordan Staal",
+        "乔丹·斯塔尔",
+        "乔丹·斯塔阿尔",
+        "斯塔尔"
+      ],
+      "source": "https://www.nhl.com/news/topic/playoffs/carolina-hurricanes-jordan-staal-wins-2026-conn-smythe-trophy-playoffs-mvp",
+      "source_title": "Staal wins Conn Smythe Trophy as MVP of Stanley Cup Playoffs | NHL.com",
+      "quote": "was awarded the Conn Smythe Trophy as the most valuable player of the Stanley Cup Playoffs",
+      "novelty_basis": "fixed by the dated final result, actual launch, new measurement, award decision or reported policy vote; prompt does not expose the result",
+      "source_status": "official_excerpt_verified",
+      "status": "new_boundary",
+      "screening": {
+        "6.1": "unknown",
+        "6.2": "miss"
+      },
+      "id": "N06"
+    },
+    {
+      "id": "N07",
+      "axis": "recall",
+      "date": "2025-12-17",
+      "domain": "体育",
+      "question": "2025年FIFA洲际杯决赛，巴黎圣日耳曼对弗拉门戈的点球大战中，连续扑出四个点球的门将是谁？",
+      "answer": "Matvei Safonov",
+      "aliases": [
+        "Matvey Safonov",
+        "Safonov",
+        "马特维·萨福诺夫",
+        "马特韦·萨福诺夫",
+        "萨福诺夫",
+        "马特维·萨弗诺夫",
+        "萨弗诺夫",
+        "马特韦·萨弗诺夫"
+      ],
+      "kind": "alias",
+      "source": "https://www.fifa.com/en/tournaments/mens/intercontinentalcup/2025/articles/flamengo-unforgettable-2025",
+      "source_title": "Flamengo's unforgettable 2025 | FIFA Intercontinental Cup",
+      "quote": "four saves from PSG's Matvei Safonov",
+      "uid": "V2-N04",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "uid": "Q03",
+      "date": "2026-06-07",
+      "domain": "sport",
+      "event": "sport-f1-monaco",
+      "axis": "recall",
+      "kind": "alias",
+      "question": "2026年F1摩纳哥大奖赛正赛的冠军是谁？",
+      "answer": "Kimi Antonelli",
+      "aliases": [
+        "Andrea Kimi Antonelli",
+        "Antonelli",
+        "基米·安东内利",
+        "基米·安托内利",
+        "安东内利",
+        "安托内利"
+      ],
+      "source": "https://www.formula1.com/en/results/2026/races/1286/monaco/race-result",
+      "source_title": "FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026 - RACE RESULT",
+      "quote": "Kimi AntonelliANT | Mercedes | 78",
+      "novelty_basis": "fixed by the dated final result, actual launch, new measurement, award decision or reported policy vote; prompt does not expose the result",
+      "source_status": "official_excerpt_verified",
+      "status": "new_boundary",
+      "screening": {
+        "6.1": "unknown",
+        "6.2": "miss"
+      },
+      "id": "N08"
+    },
+    {
+      "uid": "Q17",
+      "date": "2026-06-28",
+      "domain": "sport",
+      "event": "sport-f1-austria",
+      "axis": "recall",
+      "kind": "alias",
+      "question": "2026年F1奥地利大奖赛正赛冠军是谁？",
+      "answer": "George Russell",
+      "aliases": [
+        "Russell",
+        "乔治·拉塞尔",
+        "乔治·罗素",
+        "拉塞尔",
+        "罗素"
+      ],
+      "source": "https://www.formula1.com/en/results/2026/races/1288/austria/race-result",
+      "source_title": "FORMULA 1 LENOVO AUSTRIAN GRAND PRIX 2026 - RACE RESULT",
+      "quote": "George RussellRUS | Mercedes | 71",
+      "novelty_basis": "fixed by the dated final result, actual launch, new measurement, award decision or reported policy vote; prompt does not expose the result",
+      "source_status": "official_excerpt_verified",
+      "status": "new_boundary",
+      "screening": {
+        "6.1": "unknown",
+        "6.2": "miss"
+      },
+      "id": "N09"
+    },
+    {
+      "id": "N10",
+      "axis": "recall",
+      "date": "2026-03-15",
+      "domain": "体育",
+      "question": "2026年3月印第安维尔斯网球公开赛女单冠军是谁？",
+      "answer": "Aryna Sabalenka",
+      "aliases": [
+        "Sabalenka",
+        "萨巴伦卡",
+        "阿丽娜·萨巴伦卡",
+        "阿里娜·萨巴伦卡",
+        "萨巴莲卡"
+      ],
+      "kind": "alias",
+      "source": "https://www.wtatennis.com/news/4469923/aryna-sabalenka-solves-elena-rybakina-to-win-first-indian-wells-23rd-wta-title",
+      "source_title": "Sabalenka saves championship point to win Indian Wells thriller over Rybakina",
+      "quote": "Sabalenka saves championship point to win Indian Wells thriller over Rybakina",
+      "uid": "V2-N10",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "id": "N11",
+      "axis": "recall",
+      "date": "2026-05-19",
+      "domain": "科技",
+      "question": "Google I/O 2026当天，Gemini 3.5家族率先全面开放的型号全名是什么？",
+      "answer": "Gemini 3.5 Flash",
+      "aliases": [
+        "3.5 Flash",
+        "Google Gemini 3.5 Flash"
+      ],
+      "kind": "alias",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5",
+      "source_title": "Gemini 3.5: frontier intelligence with action",
+      "quote": "Gemini 3.5 Flash is generally available",
+      "uid": "V2-N14",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "id": "N12",
+      "axis": "recall",
+      "date": "2026-03-04",
+      "domain": "科技",
+      "question": "Apple于2026年3月发布的第一款MacBook Neo，用的是哪款芯片？",
+      "answer": "A18 Pro",
+      "aliases": [
+        "Apple A18 Pro",
+        "苹果A18 Pro",
+        "A18 Pro芯片"
+      ],
+      "kind": "alias",
+      "source": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo",
+      "source_title": "Say hello to MacBook Neo - Apple",
+      "quote": "At the heart of MacBook Neo is A18 Pro",
+      "uid": "V2-N09",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "uid": "Q24",
+      "date": "2026-07-23",
+      "domain": "science",
+      "event": "science-imu-2026",
+      "axis": "recall",
+      "kind": "alias",
+      "question": "2026年国际数学联盟在费城举行的大会开幕时公布奖项。该届IMU阿巴库斯奖得主是谁？",
+      "answer": "Shayan Oveis Gharan",
+      "aliases": [
+        "Oveis Gharan",
+        "Shayan Oveis-Gharan",
+        "沙扬·奥维斯·加兰",
+        "沙扬·奥维斯·加兰姆",
+        "沙扬·奥韦斯·加兰"
+      ],
+      "source": "https://www.mathunion.org/imu-news/archive/2026/imu-news-138-july-2026",
+      "source_title": "IMU News 138: July 2026 | International Mathematical Union (IMU)",
+      "quote": "received the IMU Abacus Medal",
+      "novelty_basis": "fixed by the dated final result, actual launch, new measurement, award decision or reported policy vote; prompt does not expose the result",
+      "source_status": "official_excerpt_verified",
+      "status": "new_boundary",
+      "screening": {
+        "6.1": "unknown",
+        "6.2": "miss"
+      },
+      "id": "N13"
+    },
+    {
+      "id": "N14",
+      "axis": "recall",
+      "date": "2025-11-01",
+      "domain": "体育",
+      "question": "2025年MLB世界大赛第7场，谁在第11局为道奇打出取得领先的本垒打？",
+      "answer": "Will Smith",
+      "aliases": [
+        "威尔·史密斯",
+        "威尔史密斯",
+        "Will D. Smith"
+      ],
+      "kind": "alias",
+      "source": "https://www.mlb.com/news/dodgers-blue-jays-world-series-game-7-facts-and-figures",
+      "source_title": "Dodgers-Blue Jays World Series Game 7 facts and figures",
+      "quote": "hit a solo homer in the 11th inning to give the Dodgers the lead.",
+      "uid": "V2-N01",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "id": "N15",
+      "axis": "recall",
+      "date": "2025-11-18",
+      "domain": "科技",
+      "question": "2025年11月Google发布Gemini 3时，同时发布的智能体开发平台叫什么？",
+      "answer": "Google Antigravity",
+      "aliases": [
+        "Antigravity",
+        "谷歌Antigravity",
+        "谷歌反重力",
+        "反重力"
+      ],
+      "kind": "alias",
+      "source": "https://blog.google/products-and-platforms/products/gemini/gemini-3",
+      "source_title": "Gemini 3: Introducing the latest Gemini AI model from Google",
+      "quote": "our new agentic development platform, Google Antigravity.",
+      "uid": "V2-N02",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "uid": "Q20",
+      "date": "2026-07-11",
+      "domain": "sport",
+      "event": "sport-wimbledon-w",
+      "axis": "recall",
+      "kind": "alias",
+      "question": "2026年温网女单决赛，谁夺得冠军？",
+      "answer": "Linda Nosková",
+      "aliases": [
+        "Linda Noskova",
+        "Noskova",
+        "琳达·诺斯科娃",
+        "诺斯科娃",
+        "诺斯科瓦"
+      ],
+      "source": "https://www.wtatennis.com/news/4533700/at-21-linda-noskova-caps-brilliant-fortnight-to-become-youngest-wimbledon-champion-in-15-years-defeats-karolina-muchova",
+      "source_title": "At 21, Noskova caps a brilliant fortnight to become youngest Wimbledon champion in 15 years",
+      "quote": "Linda Noskova is the champion",
+      "novelty_basis": "fixed by the dated final result, actual launch, new measurement, award decision or reported policy vote; prompt does not expose the result",
+      "source_status": "official_excerpt_verified",
+      "status": "new_boundary",
+      "screening": {
+        "6.1": "unknown",
+        "6.2": "miss"
+      },
+      "id": "N16"
+    },
+    {
+      "id": "N17",
+      "axis": "recall",
+      "date": "2026-02-22",
+      "domain": "体育",
+      "question": "米兰科尔蒂纳冬奥会男子冰球决赛，美国对加拿大的加时制胜球由谁打进？",
+      "answer": "Jack Hughes",
+      "aliases": [
+        "杰克·休斯",
+        "杰克休斯"
+      ],
+      "kind": "alias",
+      "source": "https://www.nhl.com/news/topic/olympics/united-states-canada-2026-olympics-gold-medal-game-recap-february-22-2026",
+      "source_title": "Jack Hughes scores in OT, Team USA wins Olympic gold medal game against Canada | NHL.com",
+      "quote": "[Jack Hughes](/player/jack-hughes-8481559) is the poster boy after he scored",
+      "uid": "V2-N08",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "id": "N18",
+      "axis": "recall",
+      "date": "2026-01-31",
+      "domain": "体育",
+      "question": "2026年澳大利亚网球公开赛女单决赛，击败萨巴伦卡夺冠的是谁？",
+      "answer": "Elena Rybakina",
+      "aliases": [
+        "Rybakina",
+        "埃琳娜·莱巴金娜",
+        "叶莲娜·莱巴金娜",
+        "莱巴金娜",
+        "雷巴金娜",
+        "蕾巴金娜",
+        "伊莲娜·莱巴金娜"
+      ],
+      "kind": "alias",
+      "source": "https://ausopen.com/articles/news/resilient-rybakina-beats-sabalenka-ao-2026-title",
+      "source_title": "Resilient Rybakina beats Sabalenka to AO 2026 title | AO",
+      "quote": "[Elena Rybakina]",
+      "uid": "V2-N06",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "id": "N19",
+      "axis": "recall",
+      "date": "2026-04-10",
+      "domain": "航天",
+      "question": "阿耳忒弥斯II号2026年4月返航时，乘员舱溅落在美国哪座城市的外海？",
+      "answer": "San Diego",
+      "aliases": [
+        "圣迭戈",
+        "圣地亚哥",
+        "圣迭哥",
+        "圣迭戈外海",
+        "圣地亚哥外海",
+        "加州圣迭戈",
+        "加州圣地亚哥",
+        "圣迭戈近海",
+        "圣地亚哥近海"
+      ],
+      "kind": "alias",
+      "source": "https://www.nasa.gov/gallery/artemis-ii-splashdown-and-recovery/page/1",
+      "source_title": "Artemis II Splashdown and Recovery - NASA",
+      "quote": "off the coast of San Diego, completing a nearly 10-day journey",
+      "uid": "V2-N11",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "uid": "Q27",
+      "date": "2026-07-29",
+      "domain": "econ",
+      "event": "econ-fed-july",
+      "axis": "recall",
+      "kind": "number",
+      "question": "美联储2026年7月底决定维持利率区间时，持反对意见、主张加息的委员有几名？",
+      "answer": "3",
+      "aliases": [
+        "3位",
+        "3名",
+        "三",
+        "三人",
+        "三名"
+      ],
+      "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+      "source_title": "Federal Reserve Board - Federal Reserve issues FOMC statement",
+      "quote": "Voting against the monetary policy action were Beth M. Hammack, Neel Kashkari, and Lorie K. Logan",
+      "novelty_basis": "fixed by the dated final result, actual launch, new measurement, award decision or reported policy vote; prompt does not expose the result",
+      "source_status": "official_excerpt_verified",
+      "status": "new_boundary",
+      "screening": {
+        "6.1": "unknown",
+        "6.2": "miss"
+      },
+      "id": "N20"
+    },
+    {
+      "id": "N21",
+      "axis": "recall",
+      "date": "2026-01-28",
+      "domain": "宏观",
+      "question": "2026年1月28日美联储表决维持利率区间，沃勒投了反对票。另一名主张当次降息、也投反对票的委员是谁？",
+      "answer": "Stephen Miran",
+      "aliases": [
+        "Miran",
+        "Stephen I. Miran",
+        "Stephen I Miran",
+        "米兰",
+        "米兰恩",
+        "米兰姆",
+        "史蒂芬·米兰",
+        "斯蒂芬·米兰",
+        "史蒂文·米兰",
+        "斯蒂芬·米兰恩",
+        "史蒂芬·米兰恩"
+      ],
+      "kind": "alias",
+      "source": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a.htm",
+      "source_title": "Federal Reserve Board - Federal Reserve issues FOMC statement",
+      "quote": "Voting against this action were Stephen I. Miran and Christopher J. Waller, who preferred to lower the target range for the federal funds rate by 1/4 percentage point at this meeting.",
+      "uid": "V2-N05",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "id": "N22",
+      "axis": "recall",
+      "date": "2026-06-09",
+      "domain": "科技",
+      "question": "Anthropic与Claude Fable 5同批发布的另一款模型叫什么？",
+      "answer": "Claude Mythos 5",
+      "aliases": [
+        "Mythos 5",
+        "Anthropic Claude Mythos 5"
+      ],
+      "kind": "alias",
+      "source": "https://www.anthropic.com/news/redeploying-fable-5",
+      "source_title": "Redeploying Claude Fable 5 \\ Anthropic",
+      "quote": "We released [Fable 5 and Mythos 5]",
+      "uid": "V2-N15",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "id": "N23",
+      "axis": "recall",
+      "date": "2026-08-07",
+      "domain": "宏观",
+      "question": "美国劳工统计局于2026年8月首次公布7月非农就业数据时，季调后总就业岗位环比净增减多少？填带正负号的岗位数。",
+      "answer": "-23000",
+      "aliases": [
+        "−23,000",
+        "-23,000",
+        "-2.3万",
+        "−2.3万",
+        "减少23000",
+        "减少23000个",
+        "减少2.3万",
+        "减少2.3万个",
+        "净减少23000",
+        "净减少2.3万",
+        "-23000个",
+        "-23000人",
+        "−23000",
+        "-23k",
+        "−23k",
+        "下滑2.3万"
+      ],
+      "kind": "number",
+      "source": "https://www.bls.gov/opub/ted/2026/little-change-in-nonfarm-payroll-employment-in-july-2026.htm",
+      "source_title": "Little change in nonfarm payroll employment in July 2026 : The Economics Daily : U.S. Bureau of Labor Statistics",
+      "quote": "Total nonfarm payroll employment changed little in July (−23,000), following an average monthly gain of 34,000 over the prior 12 months.",
+      "uid": "V2-N20",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "id": "N24",
+      "axis": "recall",
+      "date": "2025-12-11",
+      "domain": "科技",
+      "question": "2025年12月GPT-5.2发布时，标准版API每百万输出token的官方定价是多少美元？只填美元数。",
+      "answer": "14",
+      "aliases": [
+        "14美元",
+        "$14",
+        "US$14"
+      ],
+      "kind": "number",
+      "source": "https://openai.com/index/introducing-gpt-5-2",
+      "source_title": "Introducing GPT-5.2 | OpenAI",
+      "quote": "$14/1M output tokens",
+      "uid": "V2-N03",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "id": "N25",
+      "axis": "recall",
+      "date": "2026-08-23",
+      "domain": "体育",
+      "question": "2026年F1荷兰大奖赛赞德沃特正赛冠军是谁？",
+      "answer": "Lando Norris",
+      "aliases": [
+        "Norris",
+        "兰多·诺里斯",
+        "诺里斯",
+        "兰多·诺里士"
+      ],
+      "kind": "alias",
+      "source": "https://www.formula1.com/en/racing/2026/netherlands",
+      "source_title": "Dutch Grand Prix 2026 - F1 Race",
+      "quote": "| 1 | Lando NorrisNOR |",
+      "uid": "V2-N19",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "id": "N26",
+      "axis": "recall",
+      "date": "2026-02-12",
+      "domain": "科技",
+      "question": "OpenAI 2026年2月发布的GPT-5.3-Codex-Spark研究预览，使用的是哪家公司的推理硬件？",
+      "answer": "Cerebras",
+      "aliases": [
+        "Cerebras Systems",
+        "Cerebras WSE-3",
+        "Cerebras WSE",
+        "Cerebras Wafer Scale Engine",
+        "Cerebras晶圆级引擎"
+      ],
+      "kind": "alias",
+      "source": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+      "source_title": "Introducing GPT-5.3-Codex-Spark | OpenAI",
+      "quote": "We’re sharing Codex-Spark on Cerebras as a research preview",
+      "uid": "V2-N07",
+      "source_status": "frozen_v2_source_verified"
+    },
+    {
+      "uid": "Q15",
+      "date": "2026-06-18",
+      "domain": "econ",
+      "event": "econ-boe-jun",
+      "axis": "recall",
+      "kind": "alias",
+      "question": "英格兰银行2026年6月公布维持利率的投票结果，支持维持对反对维持的票数是多少？支持在前。",
+      "answer": "7-2",
+      "aliases": [
+        "7:2",
+        "7–2",
+        "7比2",
+        "7票对2票",
+        "7：2"
+      ],
+      "source": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/june-2026",
+      "source_title": "Bank Rate maintained at 3.75% - June 2026 Monetary Policy Summary and Minutes | Bank of England – the UK's central bank",
+      "quote": "voted by a majority of 7–2 to maintain Bank Rate",
+      "novelty_basis": "fixed by the dated final result, actual launch, new measurement, award decision or reported policy vote; prompt does not expose the result",
+      "source_status": "official_excerpt_verified",
+      "status": "new_boundary",
+      "screening": {
+        "6.1": "unknown",
+        "6.2": "match"
+      },
+      "id": "N27"
+    },
+    {
+      "uid": "Q18",
+      "date": "2026-07-05",
+      "domain": "sport",
+      "event": "sport-tour-stage2",
+      "axis": "recall",
+      "kind": "alias",
+      "question": "2026年环法自行车赛第二赛段，谁在巴塞罗那蒙锥克终点获得单站冠军？",
+      "answer": "Isaac del Toro",
+      "aliases": [
+        "Del Toro",
+        "Isaac Del Toro Romero",
+        "伊萨克·德尔·托罗",
+        "伊萨克·德尔托罗",
+        "德尔·托罗",
+        "德尔托罗"
+      ],
+      "source": "https://www.letour.fr/en/news/2026/pogacar-gifts-montjuic-to-del-toro/1334899",
+      "source_title": "Pogacar gifts Montjuïc to Del Toro - Tour de France 2027",
+      "quote": "Isaac del Toro and Tadej Pogacar ruled the final uphill in Montjuïc to achieve a dominant 1-2 finish",
+      "novelty_basis": "fixed by the dated final result, actual launch, new measurement, award decision or reported policy vote; prompt does not expose the result",
+      "source_status": "official_excerpt_verified",
+      "status": "new_boundary",
+      "screening": {
+        "6.1": "unknown",
+        "6.2": "miss"
+      },
+      "id": "N28"
+    },
+    {
+      "uid": "Q07",
+      "date": "2026-06-13",
+      "domain": "sport",
+      "event": "sport-nba-finals",
+      "axis": "recall",
+      "kind": "number",
+      "question": "尼克斯在2026年NBA总决赛第五场夺冠那一战，布伦森拿了多少分？只填数字。",
+      "answer": "45",
+      "aliases": [
+        "45分"
+      ],
+      "source": "https://www.nba.com/news/4-takeaways-knicks-spurs-game-5",
+      "source_title": "4 takeaways: Jalen Brunson delivers in the 4th to carry Knicks to the NBA championship | NBA.com",
+      "quote": "Jalen Brunson scores 45 points",
+      "novelty_basis": "fixed by the dated final result, actual launch, new measurement, award decision or reported policy vote; prompt does not expose the result",
+      "source_status": "official_excerpt_verified",
+      "status": "new_boundary",
+      "screening": {
+        "6.1": "unknown",
+        "6.2": "miss"
+      },
+      "id": "N29"
+    },
+    {
+      "id": "N30",
+      "axis": "recall",
+      "date": "2026-04-16",
+      "domain": "科技",
+      "question": "Anthropic在2026年4月公布，Claude Opus 4.7可以接受的输入图像最长边上限是多少像素？只填数值。",
+      "answer": "2576",
+      "aliases": [
+        "2,576",
+        "2576像素",
+        "2,576像素",
+        "2576 px"
+      ],
+      "kind": "number",
+      "source": "https://www.anthropic.com/news/claude-opus-4-7",
+      "source_title": "Introducing Claude Opus 4.7 \\ Anthropic",
+      "quote": "it can accept images up to 2,576 pixels on the long edge",
+      "uid": "V2-N12",
+      "source_status": "frozen_v2_source_verified"
+    }
+  ],
+  "bins": [
+    [
+      "2025-11-01",
+      "2025-11-30"
+    ],
+    [
+      "2025-12-01",
+      "2025-12-31"
+    ],
+    [
+      "2026-01-01",
+      "2026-01-31"
+    ],
+    [
+      "2026-02-01",
+      "2026-02-28"
+    ],
+    [
+      "2026-03-01",
+      "2026-03-31"
+    ],
+    [
+      "2026-04-01",
+      "2026-04-30"
+    ],
+    [
+      "2026-05-01",
+      "2026-05-31"
+    ],
+    [
+      "2026-06-01",
+      "2026-06-10"
+    ],
+    [
+      "2026-06-11",
+      "2026-06-20"
+    ],
+    [
+      "2026-06-21",
+      "2026-06-30"
+    ],
+    [
+      "2026-07-01",
+      "2026-07-10"
+    ],
+    [
+      "2026-07-11",
+      "2026-07-20"
+    ],
+    [
+      "2026-07-21",
+      "2026-07-31"
+    ],
+    [
+      "2026-08-01",
+      "2026-08-31"
+    ]
+  ],
+  "prompt_hash": "845a0a0ea306389af6f8799c7b0912fb9d4f822df4e6601b13f4256d9a90c3da",
+  "batch_sizes": [
+    15,
+    15
+  ],
+  "batch_hashes": [
+    "5b162c9bdbf2b2766a616ddfd9e5646adb5d7e6d352a56c773c334bb5a35a00a",
+    "28c524ab15a0e43d92b6cb8978c2424ee3512d60bf9300150d3a11510ceb1ee2"
+  ]
+}
