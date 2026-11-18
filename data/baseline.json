@@ -1,0 +1,1314 @@
+{
+  "version": "news-202511-202608-v2",
+  "prompt_sha256": "38f850b8bd9c11361ccb30e85aab02dcad2af7df9c0e23aa4d82a4d9829a22be",
+  "key_sha256": "360e3fb7982a87ca59386f4c98f9dbfa0742c25671f44666bb42f619f9a5894d",
+  "date": "2026-11-18",
+  "protocol": "Two isolated OAuth subscription routes with fresh tool-free requests, xhigh; offline rescored for spelling alias. A and B are pseudonyms for the two accounts.",
+  "matched_tokens": 51096,
+  "results": [
+    {
+      "route": "A",
+      "model": "gpt-6.2-astra",
+      "effort": "xhigh",
+      "score": 16,
+      "out_of": 20,
+      "all_correct_through": "2026-06",
+      "any_correct_through": "2026-06",
+      "months": {
+        "2025-11": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-01": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2025-12": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-08": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 2,
+          "missing": 0
+        },
+        "2026-06": {
+          "correct": 2,
+          "correct_guess": 2,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-04": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-03": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-02": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-05": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-07": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 2,
+          "missing": 0
+        }
+      },
+      "items": {
+        "N01": {
+          "mark": "match",
+          "guess": false
+        },
+        "N05": {
+          "mark": "match",
+          "guess": false
+        },
+        "N03": {
+          "mark": "match",
+          "guess": false
+        },
+        "N04": {
+          "mark": "match",
+          "guess": false
+        },
+        "N20": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N15": {
+          "mark": "match",
+          "guess": true
+        },
+        "N06": {
+          "mark": "match",
+          "guess": false
+        },
+        "N12": {
+          "mark": "match",
+          "guess": false
+        },
+        "N02": {
+          "mark": "match",
+          "guess": false
+        },
+        "N09": {
+          "mark": "match",
+          "guess": false
+        },
+        "N10": {
+          "mark": "match",
+          "guess": false
+        },
+        "N07": {
+          "mark": "match",
+          "guess": false
+        },
+        "N13": {
+          "mark": "match",
+          "guess": false
+        },
+        "N11": {
+          "mark": "match",
+          "guess": false
+        },
+        "N18": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N17": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N14": {
+          "mark": "match",
+          "guess": false
+        },
+        "N08": {
+          "mark": "match",
+          "guess": false
+        },
+        "N19": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N16": {
+          "mark": "match",
+          "guess": true
+        }
+      }
+    },
+    {
+      "route": "A",
+      "model": "gpt-6.2-sol",
+      "effort": "xhigh",
+      "score": 17,
+      "out_of": 20,
+      "all_correct_through": "2026-06",
+      "any_correct_through": "2026-07",
+      "months": {
+        "2025-11": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-01": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2025-12": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-08": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 2,
+          "missing": 0
+        },
+        "2026-06": {
+          "correct": 2,
+          "correct_guess": 1,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-04": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-03": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-02": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-05": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-07": {
+          "correct": 1,
+          "correct_guess": 0,
+          "wrong": 1,
+          "unknown": 0,
+          "missing": 0
+        }
+      },
+      "items": {
+        "N01": {
+          "mark": "match",
+          "guess": false
+        },
+        "N05": {
+          "mark": "match",
+          "guess": false
+        },
+        "N03": {
+          "mark": "match",
+          "guess": false
+        },
+        "N04": {
+          "mark": "match",
+          "guess": false
+        },
+        "N20": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N15": {
+          "mark": "match",
+          "guess": false
+        },
+        "N06": {
+          "mark": "match",
+          "guess": false
+        },
+        "N12": {
+          "mark": "match",
+          "guess": false
+        },
+        "N02": {
+          "mark": "match",
+          "guess": false
+        },
+        "N09": {
+          "mark": "match",
+          "guess": false
+        },
+        "N10": {
+          "mark": "match",
+          "guess": false
+        },
+        "N07": {
+          "mark": "match",
+          "guess": false
+        },
+        "N13": {
+          "mark": "match",
+          "guess": false
+        },
+        "N11": {
+          "mark": "match",
+          "guess": false
+        },
+        "N18": {
+          "mark": "match",
+          "guess": false
+        },
+        "N17": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N14": {
+          "mark": "match",
+          "guess": false
+        },
+        "N08": {
+          "mark": "match",
+          "guess": false
+        },
+        "N19": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N16": {
+          "mark": "match",
+          "guess": true
+        }
+      }
+    },
+    {
+      "route": "A",
+      "model": "gpt-6.1-sol",
+      "effort": "xhigh",
+      "score": 14,
+      "out_of": 20,
+      "all_correct_through": "2026-05",
+      "any_correct_through": "2026-05",
+      "months": {
+        "2025-11": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-01": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2025-12": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-08": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 2,
+          "missing": 0
+        },
+        "2026-06": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 2,
+          "missing": 0
+        },
+        "2026-04": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-03": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-02": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-05": {
+          "correct": 2,
+          "correct_guess": 1,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-07": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 2,
+          "missing": 0
+        }
+      },
+      "items": {
+        "N01": {
+          "mark": "match",
+          "guess": false
+        },
+        "N05": {
+          "mark": "match",
+          "guess": false
+        },
+        "N03": {
+          "mark": "match",
+          "guess": false
+        },
+        "N04": {
+          "mark": "match",
+          "guess": false
+        },
+        "N20": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N15": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N06": {
+          "mark": "match",
+          "guess": false
+        },
+        "N12": {
+          "mark": "match",
+          "guess": false
+        },
+        "N02": {
+          "mark": "match",
+          "guess": false
+        },
+        "N09": {
+          "mark": "match",
+          "guess": false
+        },
+        "N10": {
+          "mark": "match",
+          "guess": false
+        },
+        "N07": {
+          "mark": "match",
+          "guess": false
+        },
+        "N13": {
+          "mark": "match",
+          "guess": true
+        },
+        "N11": {
+          "mark": "match",
+          "guess": false
+        },
+        "N18": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N17": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N14": {
+          "mark": "match",
+          "guess": false
+        },
+        "N08": {
+          "mark": "match",
+          "guess": false
+        },
+        "N19": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N16": {
+          "mark": "unknown",
+          "guess": false
+        }
+      }
+    },
+    {
+      "route": "A",
+      "model": "gpt-5.6-sol",
+      "effort": "xhigh",
+      "score": 9,
+      "out_of": 20,
+      "all_correct_through": "2026-01",
+      "any_correct_through": "2026-04",
+      "months": {
+        "2025-11": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-01": {
+          "correct": 2,
+          "correct_guess": 1,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2025-12": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-08": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 1,
+          "unknown": 1,
+          "missing": 0
+        },
+        "2026-06": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 2,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-04": {
+          "correct": 1,
+          "correct_guess": 1,
+          "wrong": 1,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-03": {
+          "correct": 1,
+          "correct_guess": 1,
+          "wrong": 1,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-02": {
+          "correct": 1,
+          "correct_guess": 1,
+          "wrong": 1,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-05": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 2,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-07": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 2,
+          "unknown": 0,
+          "missing": 0
+        }
+      },
+      "items": {
+        "N01": {
+          "mark": "match",
+          "guess": false
+        },
+        "N05": {
+          "mark": "match",
+          "guess": false
+        },
+        "N03": {
+          "mark": "match",
+          "guess": false
+        },
+        "N04": {
+          "mark": "match",
+          "guess": false
+        },
+        "N20": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N15": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N06": {
+          "mark": "match",
+          "guess": true
+        },
+        "N12": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N02": {
+          "mark": "match",
+          "guess": false
+        },
+        "N09": {
+          "mark": "match",
+          "guess": true
+        },
+        "N10": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N07": {
+          "mark": "match",
+          "guess": true
+        },
+        "N13": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N11": {
+          "mark": "match",
+          "guess": true
+        },
+        "N18": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N17": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N14": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N08": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N19": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N16": {
+          "mark": "miss",
+          "guess": true
+        }
+      }
+    },
+    {
+      "route": "B",
+      "model": "gpt-6.2-astra",
+      "effort": "xhigh",
+      "score": 16,
+      "out_of": 20,
+      "all_correct_through": "2026-06",
+      "any_correct_through": "2026-06",
+      "months": {
+        "2025-11": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-01": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2025-12": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-08": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 2,
+          "missing": 0
+        },
+        "2026-06": {
+          "correct": 2,
+          "correct_guess": 2,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-04": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-03": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-02": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-05": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-07": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 2,
+          "missing": 0
+        }
+      },
+      "items": {
+        "N01": {
+          "mark": "match",
+          "guess": false
+        },
+        "N05": {
+          "mark": "match",
+          "guess": false
+        },
+        "N03": {
+          "mark": "match",
+          "guess": false
+        },
+        "N04": {
+          "mark": "match",
+          "guess": false
+        },
+        "N20": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N15": {
+          "mark": "match",
+          "guess": true
+        },
+        "N06": {
+          "mark": "match",
+          "guess": false
+        },
+        "N12": {
+          "mark": "match",
+          "guess": false
+        },
+        "N02": {
+          "mark": "match",
+          "guess": false
+        },
+        "N09": {
+          "mark": "match",
+          "guess": false
+        },
+        "N10": {
+          "mark": "match",
+          "guess": false
+        },
+        "N07": {
+          "mark": "match",
+          "guess": false
+        },
+        "N13": {
+          "mark": "match",
+          "guess": false
+        },
+        "N11": {
+          "mark": "match",
+          "guess": false
+        },
+        "N18": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N17": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N14": {
+          "mark": "match",
+          "guess": false
+        },
+        "N08": {
+          "mark": "match",
+          "guess": false
+        },
+        "N19": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N16": {
+          "mark": "match",
+          "guess": true
+        }
+      }
+    },
+    {
+      "route": "B",
+      "model": "gpt-6.2-sol",
+      "effort": "xhigh",
+      "score": 17,
+      "out_of": 20,
+      "all_correct_through": "2026-06",
+      "any_correct_through": "2026-07",
+      "months": {
+        "2025-11": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-01": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2025-12": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-08": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 1,
+          "unknown": 1,
+          "missing": 0
+        },
+        "2026-06": {
+          "correct": 2,
+          "correct_guess": 1,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-04": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-03": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-02": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-05": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-07": {
+          "correct": 1,
+          "correct_guess": 0,
+          "wrong": 1,
+          "unknown": 0,
+          "missing": 0
+        }
+      },
+      "items": {
+        "N01": {
+          "mark": "match",
+          "guess": false
+        },
+        "N05": {
+          "mark": "match",
+          "guess": false
+        },
+        "N03": {
+          "mark": "match",
+          "guess": false
+        },
+        "N04": {
+          "mark": "match",
+          "guess": false
+        },
+        "N20": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N15": {
+          "mark": "match",
+          "guess": false
+        },
+        "N06": {
+          "mark": "match",
+          "guess": false
+        },
+        "N12": {
+          "mark": "match",
+          "guess": false
+        },
+        "N02": {
+          "mark": "match",
+          "guess": false
+        },
+        "N09": {
+          "mark": "match",
+          "guess": false
+        },
+        "N10": {
+          "mark": "match",
+          "guess": false
+        },
+        "N07": {
+          "mark": "match",
+          "guess": false
+        },
+        "N13": {
+          "mark": "match",
+          "guess": false
+        },
+        "N11": {
+          "mark": "match",
+          "guess": false
+        },
+        "N18": {
+          "mark": "match",
+          "guess": false
+        },
+        "N17": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N14": {
+          "mark": "match",
+          "guess": false
+        },
+        "N08": {
+          "mark": "match",
+          "guess": false
+        },
+        "N19": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N16": {
+          "mark": "match",
+          "guess": true
+        }
+      }
+    },
+    {
+      "route": "B",
+      "model": "gpt-6.1-sol",
+      "effort": "xhigh",
+      "score": 14,
+      "out_of": 20,
+      "all_correct_through": "2026-05",
+      "any_correct_through": "2026-05",
+      "months": {
+        "2025-11": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-01": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2025-12": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-08": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 2,
+          "missing": 0
+        },
+        "2026-06": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 2,
+          "missing": 0
+        },
+        "2026-04": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-03": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-02": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-05": {
+          "correct": 2,
+          "correct_guess": 2,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-07": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 2,
+          "missing": 0
+        }
+      },
+      "items": {
+        "N01": {
+          "mark": "match",
+          "guess": false
+        },
+        "N05": {
+          "mark": "match",
+          "guess": false
+        },
+        "N03": {
+          "mark": "match",
+          "guess": false
+        },
+        "N04": {
+          "mark": "match",
+          "guess": false
+        },
+        "N20": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N15": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N06": {
+          "mark": "match",
+          "guess": false
+        },
+        "N12": {
+          "mark": "match",
+          "guess": false
+        },
+        "N02": {
+          "mark": "match",
+          "guess": false
+        },
+        "N09": {
+          "mark": "match",
+          "guess": false
+        },
+        "N10": {
+          "mark": "match",
+          "guess": false
+        },
+        "N07": {
+          "mark": "match",
+          "guess": false
+        },
+        "N13": {
+          "mark": "match",
+          "guess": true
+        },
+        "N11": {
+          "mark": "match",
+          "guess": false
+        },
+        "N18": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N17": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N14": {
+          "mark": "match",
+          "guess": true
+        },
+        "N08": {
+          "mark": "match",
+          "guess": false
+        },
+        "N19": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N16": {
+          "mark": "unknown",
+          "guess": false
+        }
+      }
+    },
+    {
+      "route": "B",
+      "model": "gpt-5.6-sol",
+      "effort": "xhigh",
+      "score": 9,
+      "out_of": 20,
+      "all_correct_through": "2026-01",
+      "any_correct_through": "2026-04",
+      "months": {
+        "2025-11": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-01": {
+          "correct": 2,
+          "correct_guess": 1,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2025-12": {
+          "correct": 2,
+          "correct_guess": 0,
+          "wrong": 0,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-08": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 1,
+          "unknown": 1,
+          "missing": 0
+        },
+        "2026-06": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 2,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-04": {
+          "correct": 1,
+          "correct_guess": 1,
+          "wrong": 1,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-03": {
+          "correct": 1,
+          "correct_guess": 1,
+          "wrong": 1,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-02": {
+          "correct": 1,
+          "correct_guess": 1,
+          "wrong": 1,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-05": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 2,
+          "unknown": 0,
+          "missing": 0
+        },
+        "2026-07": {
+          "correct": 0,
+          "correct_guess": 0,
+          "wrong": 2,
+          "unknown": 0,
+          "missing": 0
+        }
+      },
+      "items": {
+        "N01": {
+          "mark": "match",
+          "guess": false
+        },
+        "N05": {
+          "mark": "match",
+          "guess": false
+        },
+        "N03": {
+          "mark": "match",
+          "guess": false
+        },
+        "N04": {
+          "mark": "match",
+          "guess": false
+        },
+        "N20": {
+          "mark": "unknown",
+          "guess": false
+        },
+        "N15": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N06": {
+          "mark": "match",
+          "guess": true
+        },
+        "N12": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N02": {
+          "mark": "match",
+          "guess": false
+        },
+        "N09": {
+          "mark": "match",
+          "guess": true
+        },
+        "N10": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N07": {
+          "mark": "match",
+          "guess": true
+        },
+        "N13": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N11": {
+          "mark": "match",
+          "guess": true
+        },
+        "N18": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N17": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N14": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N08": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N19": {
+          "mark": "miss",
+          "guess": true
+        },
+        "N16": {
+          "mark": "miss",
+          "guess": true
+        }
+      }
+    }
+  ]
+}
